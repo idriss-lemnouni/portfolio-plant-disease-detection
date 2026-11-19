@@ -1,0 +1,1892 @@
+{
+  "early_blight-000.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/ed64bc0c-d2e5-44fd-a21a-f4d6b4f2f219___RS_Early.B%207366.JPG",
+    "sha256": "9cd65a9912f77500c321d5ee0d31cb9af09fc51d4e697c2ec2ffbc78d1a1b298",
+    "bytes": 17188,
+    "label": "early_blight"
+  },
+  "early_blight-001.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/8b20db6d-9c57-46d7-b40d-c6a809b49e07___RS_Early.B%209127.JPG",
+    "sha256": "24247badce79e766c2475f15d284e35d9a6216e2af3ab51511c09cb9b555ad89",
+    "bytes": 20553,
+    "label": "early_blight"
+  },
+  "early_blight-002.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/ec4e730c-02c1-4b4e-b9fc-9387e2f30a8a___RS_Early.B%207701.JPG",
+    "sha256": "9b58b6e7270b4b2ed9313c72464ee09a322228340afc3a6956cec911486ad17f",
+    "bytes": 18285,
+    "label": "early_blight"
+  },
+  "early_blight-003.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/6bd7d398-9cce-4282-a853-9625a641ebd6___RS_Early.B%208416.JPG",
+    "sha256": "6c8850ff8635f717913791ce45a9593c46536fa2978dcf67334cd9c23b2085ba",
+    "bytes": 18694,
+    "label": "early_blight"
+  },
+  "early_blight-004.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/9b5f25b9-9f30-478a-9710-fc79dafaf62e___RS_Early.B%206739.JPG",
+    "sha256": "2d861b9aa2ed1b34d73cae9dd2d2b998c4b82017269e987b3716713841b55197",
+    "bytes": 21909,
+    "label": "early_blight"
+  },
+  "early_blight-005.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/887347a3-ee1c-4141-a423-ffe050dd246e___RS_Early.B%207851.JPG",
+    "sha256": "cbb464c4fd068ac6d99fc8c82a23277a33823517d10e8c04a58fb4ca5901cf54",
+    "bytes": 20217,
+    "label": "early_blight"
+  },
+  "early_blight-006.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/6fc04d72-747b-4a96-912a-db0bd967ece0___RS_Early.B%208002.JPG",
+    "sha256": "49ac8e2e3ae638af07c8de7501c1b0ada8b479bb9cc90de05ceae3627925dcf3",
+    "bytes": 18978,
+    "label": "early_blight"
+  },
+  "early_blight-007.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/3c3a9c2c-3387-4666-9f42-4d14142e9500___RS_Early.B%208499.JPG",
+    "sha256": "5aff1432479b789b7966f8a869d7845739610e88f516251d51bec14f84a75b27",
+    "bytes": 19996,
+    "label": "early_blight"
+  },
+  "early_blight-008.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/dc3e6480-10c2-429b-bd9a-b8dd7d538594___RS_Early.B%208061.JPG",
+    "sha256": "85cec662d51e9e59c6d058dbf096efb67f89bc7ff6a48beca31f82001b0ada82",
+    "bytes": 18347,
+    "label": "early_blight"
+  },
+  "early_blight-009.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/be5f03e6-810f-4f22-9e5a-37a66826f7e5___RS_Early.B%206807.JPG",
+    "sha256": "455e4fc5e3d2774ce1942e348b55edf7d0f4a9128f069032236e3483085df1e6",
+    "bytes": 21416,
+    "label": "early_blight"
+  },
+  "early_blight-010.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/6a90d533-28ad-4e1b-935b-8d2dfa804c87___RS_Early.B%208213.JPG",
+    "sha256": "eb3faa8bc4602f0205591c4d4e415cf49b90094ac8a42a2e67655ba7bf9a301f",
+    "bytes": 19473,
+    "label": "early_blight"
+  },
+  "early_blight-011.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/8c3d0f9e-3a77-4ec2-a9ad-d996caa2c562___RS_Early.B%206887.JPG",
+    "sha256": "14495b9fddf940fc376f30d249074c561db4d2a4b14e765419ff5f1c6ee4f4e5",
+    "bytes": 22399,
+    "label": "early_blight"
+  },
+  "early_blight-012.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/82cdc0bb-ac22-429d-ad70-2ec0d771dd39___RS_Early.B%207405.JPG",
+    "sha256": "bbe595e69b2defd755b335c6c86997df8c471217d72f7de2a6bcee92e52c2c1f",
+    "bytes": 20686,
+    "label": "early_blight"
+  },
+  "early_blight-013.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/bcedd1ec-17b4-495b-b47f-5877ef836f88___RS_Early.B%207248.JPG",
+    "sha256": "31ea46dd0e2c14562644990d043a1811bfa10114a992c6ec2148cb9413ff0afd",
+    "bytes": 18243,
+    "label": "early_blight"
+  },
+  "early_blight-014.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/e7cab6f5-308b-41ea-af82-e20cfe540729___RS_Early.B%207177.JPG",
+    "sha256": "9239c7ec949a6f89f6f3812ba5637faf9df41b65df7dff94f45e130499d97b66",
+    "bytes": 18644,
+    "label": "early_blight"
+  },
+  "early_blight-015.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/fc603fb2-e2a0-4990-8a75-0e4f80f40694___RS_Early.B%207584.JPG",
+    "sha256": "a8765e836c6f14873ac26651b6db9d353b87a4fddce6039f07ad322028337341",
+    "bytes": 18970,
+    "label": "early_blight"
+  },
+  "early_blight-016.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/bc378ba0-533d-42db-a8b2-82decc73f4d5___RS_Early.B%209092.JPG",
+    "sha256": "d14b04c66285010ad7422974d6aaa6d757c5ce5f6fb3d54ee62643846966f7c3",
+    "bytes": 21486,
+    "label": "early_blight"
+  },
+  "early_blight-017.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/78ca2c95-f7b7-43b8-a91f-9ca12ac814e8___RS_Early.B%207137.JPG",
+    "sha256": "8c4b73dd94b4a8a76d556bcffc266257182c5e7c04b7c9d12ee02622d57e039b",
+    "bytes": 19444,
+    "label": "early_blight"
+  },
+  "early_blight-018.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/879d0dfe-d17d-486a-992c-d80089133c50___RS_Early.B%207428.JPG",
+    "sha256": "934eda70bfadffb6f40739275d788477368e735c2ddf1cf0ba9263a8021557f2",
+    "bytes": 17623,
+    "label": "early_blight"
+  },
+  "early_blight-019.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/26d0502d-5fb3-48fa-a86d-d1de92703285___RS_Early.B%206959.JPG",
+    "sha256": "0f75d32a0e46b48326cc2943c965e7f71c95f7962e883108338f66b7b664c3a2",
+    "bytes": 19702,
+    "label": "early_blight"
+  },
+  "early_blight-020.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/fbc1b154-7b53-4ac5-ad3a-5e9e5078a289___RS_Early.B%207551.JPG",
+    "sha256": "2a8da40ff75a6683e5cf23d31145a52ef47272ea45156656eba20e59e5268379",
+    "bytes": 20383,
+    "label": "early_blight"
+  },
+  "early_blight-021.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/1ff86a73-9f36-45c5-8012-c5d90445b7ac___RS_Early.B%208563.JPG",
+    "sha256": "6a1af9820d7da8ad4e8ef10d142fffc6eb0f7e4a3deed8364504ba6532c276cb",
+    "bytes": 21630,
+    "label": "early_blight"
+  },
+  "early_blight-022.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/e3779bc5-a8e2-4be6-8e15-4a4713ab9531___RS_Early.B%208431.JPG",
+    "sha256": "335c7da1e5d4d69e23bb2f209605280bcc901ed419f7820e7e1c3f68c288088a",
+    "bytes": 19897,
+    "label": "early_blight"
+  },
+  "early_blight-023.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/585062b6-d5a4-4677-8b7f-773257399423___RS_Early.B%208558.JPG",
+    "sha256": "a844576ac0acbdbcbb14cb8dd32edbbbd19d433daa7b296773ce0533956f797e",
+    "bytes": 19227,
+    "label": "early_blight"
+  },
+  "early_blight-024.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/52fb5725-33cf-4076-9abc-93311d027da2___RS_Early.B%208415.JPG",
+    "sha256": "937caf6c1ae8b4db84979f24585357b8dc22e769231fb429cdb61dcb797fa494",
+    "bytes": 18829,
+    "label": "early_blight"
+  },
+  "early_blight-025.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/0ad3ba53-f01b-403b-a99d-5991eed85045___RS_Early.B%207600.JPG",
+    "sha256": "196cd7dbd3f21ad9564b1c2ae8027f68c46d8de5fda94d83888bf15aaf70480f",
+    "bytes": 15804,
+    "label": "early_blight"
+  },
+  "early_blight-026.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/91721448-8786-49f6-a66d-d410fe714676___RS_Early.B%207725.JPG",
+    "sha256": "b6eb48d2bc0a633a1d395603291a7ac15107c6b5d08abe93259e864541241ae7",
+    "bytes": 18469,
+    "label": "early_blight"
+  },
+  "early_blight-027.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/c777a0ce-5d2b-4e87-8cc4-d5f8847a4553___RS_Early.B%208239.JPG",
+    "sha256": "144b0669668c85b9100ff35805272ceb0c8f702ea8921adc08f0d412738ee744",
+    "bytes": 22122,
+    "label": "early_blight"
+  },
+  "early_blight-028.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/08bbd7f1-169d-4e38-946f-8d91589b263e___RS_Early.B%207106.JPG",
+    "sha256": "215d6d41078e3c2bb36515d9f22ef78c5d714f45592d080cac620241dae9d98b",
+    "bytes": 18248,
+    "label": "early_blight"
+  },
+  "early_blight-029.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/c7f27f40-6634-4118-9990-6897e0c68579___RS_Early.B%207197.JPG",
+    "sha256": "7a33394ade5b3e15e5bbfdb66919da94bbcd4740eb799ada16e82212fdeba9be",
+    "bytes": 20804,
+    "label": "early_blight"
+  },
+  "early_blight-030.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/b2e21749-afe2-4392-8d5d-23088d37873c___RS_Early.B%209028.JPG",
+    "sha256": "3553f32ad0199b738da4e6f341e9aed68a7d390f74f20aafb75dd5c98d710b14",
+    "bytes": 20572,
+    "label": "early_blight"
+  },
+  "early_blight-031.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/98efaa2d-7587-48e8-8c19-4f7483e395cb___RS_Early.B%206982.JPG",
+    "sha256": "91f0c4b8b0a558fb58e29350cae679800c9a240c397067b4884a5d2c0287e937",
+    "bytes": 19786,
+    "label": "early_blight"
+  },
+  "early_blight-032.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/fd59ab68-681f-4aca-ae95-6f73bf8caad7___RS_Early.B%207118.JPG",
+    "sha256": "196b16ab52e0064376f6d56cea5b6d952a70443785fc71eafd44accda031579d",
+    "bytes": 18579,
+    "label": "early_blight"
+  },
+  "early_blight-033.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/5a152fa7-7645-42ea-9c59-13258febe52f___RS_Early.B%207175.JPG",
+    "sha256": "02a40796776f5b9a62ef77d8d861882c42b67f6fb42ce8460a9e47a2722c9cce",
+    "bytes": 20660,
+    "label": "early_blight"
+  },
+  "early_blight-034.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/62490062-4c67-4caf-bec5-df1342ec2987___RS_Early.B%207946.JPG",
+    "sha256": "f6b850a534acfe73e77af8996d179bbe6df477505469f293732d32a1a15852bc",
+    "bytes": 20365,
+    "label": "early_blight"
+  },
+  "early_blight-035.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/1d18a770-8a16-4765-bae9-5d96f781db89___RS_Early.B%207803.JPG",
+    "sha256": "7fb4f79281c5de56c54244a1784b1b3768834793ad23d252485dcfae6ba98079",
+    "bytes": 19582,
+    "label": "early_blight"
+  },
+  "early_blight-036.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/fba7a41d-25df-4a1c-93d1-98d62e3376e0___RS_Early.B%208207.JPG",
+    "sha256": "dec35338dc8fe85fcd22ce2e1af2b9f89a32ce96456379aa755f3705c00bc82d",
+    "bytes": 19983,
+    "label": "early_blight"
+  },
+  "early_blight-037.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/5dfcdf05-e64e-4992-84b8-a9fc9c49ce3c___RS_Early.B%206711.JPG",
+    "sha256": "9540a96948ab1d3c3afe109045541a843dc0363b96c6056b46de9fb9faa11fc3",
+    "bytes": 19684,
+    "label": "early_blight"
+  },
+  "early_blight-038.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/4b7b3611-d9b9-40c8-b0f5-d730fcd76679___RS_Early.B%206937.JPG",
+    "sha256": "7b088cd05d9c38a762d07d6a6341920f6c55108bf2d9b834e5ea18d394eb78df",
+    "bytes": 20677,
+    "label": "early_blight"
+  },
+  "early_blight-039.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/34d62dee-797e-4f31-9063-f6a285935b4d___RS_Early.B%206733.JPG",
+    "sha256": "7c85fd33b1f8436cc026b1d127b335e8fd81e65cfdcb20b48cfb6921c7011121",
+    "bytes": 20942,
+    "label": "early_blight"
+  },
+  "early_blight-040.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/54a0c5b4-7df1-46c8-95f7-85ffb6a47939___RS_Early.B%208174.JPG",
+    "sha256": "61eaeb4bcbe5912370e5275a785f3e485e6272304e375c0e066e00e9b304f150",
+    "bytes": 21693,
+    "label": "early_blight"
+  },
+  "early_blight-041.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/38807f81-ce49-4978-916a-a6cd2a95bfb0___RS_Early.B%208397.JPG",
+    "sha256": "8d6c2089e881178ff90f4ebfbd67b23a9d0ca1972c5166062123b6deb67fabd0",
+    "bytes": 18789,
+    "label": "early_blight"
+  },
+  "early_blight-042.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/77b04047-8450-47d1-82f1-48f09f83387c___RS_Early.B%207042.JPG",
+    "sha256": "20e209fd6c5a50f69b52f23dc218c1e67ec5f4b071637dd1a29a1dc58707ddf8",
+    "bytes": 18191,
+    "label": "early_blight"
+  },
+  "early_blight-043.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/c5b121ff-fc3c-406a-8127-2a7e413a0903___RS_Early.B%209006.JPG",
+    "sha256": "dc1739cae2106c4d3ec7cddf3592c3c3b848b90dffad76847c02eb1b0f6aa622",
+    "bytes": 23274,
+    "label": "early_blight"
+  },
+  "early_blight-044.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/31d5d932-9eb3-45d1-bc85-40ef64d7a688___RS_Early.B%207255.JPG",
+    "sha256": "ef066a3b5a1474fdd26fdaa44d111141471ae9b06796aba5bbfcd530c0602f73",
+    "bytes": 18565,
+    "label": "early_blight"
+  },
+  "early_blight-045.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/e6693b54-623a-4323-aa79-3e0fc3c07288___RS_Early.B%209198.JPG",
+    "sha256": "eea7f074d5025237a478babeca0479f6a749be97b122624468dcab05788ffa97",
+    "bytes": 21407,
+    "label": "early_blight"
+  },
+  "early_blight-046.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/d03ee4f8-b77d-4f0f-8d13-d0a019a37a66___RS_Early.B%206970.JPG",
+    "sha256": "4801cf9399c14dcb2bd7a31482bf0ccb8e41c14a8a6e33778553219b040a56cc",
+    "bytes": 21381,
+    "label": "early_blight"
+  },
+  "early_blight-047.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/8e05b766-d0a9-4621-9bb4-d16bef411dda___RS_Early.B%207238.JPG",
+    "sha256": "0c71f41c990c2e2a94cd53d509173a997789fe44f237f585a3f9b2587fe91292",
+    "bytes": 18425,
+    "label": "early_blight"
+  },
+  "early_blight-048.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/306c45ac-6f97-4b7e-9fad-1c8c39870138___RS_Early.B%207673.JPG",
+    "sha256": "5baa453f64c36c3f7618ae2da6b048ae5a9d906038d7b0cbffdda46ea13c3f5c",
+    "bytes": 18063,
+    "label": "early_blight"
+  },
+  "early_blight-049.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/90efe2c3-3e9b-4c76-9ab9-b74b2b2ecf36___RS_Early.B%207582.JPG",
+    "sha256": "43e469b58d4d3e751f355d0142f8b3e2f2f53f7173828918add95b2ecd5ee2c9",
+    "bytes": 19398,
+    "label": "early_blight"
+  },
+  "early_blight-050.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/6b8024be-e45f-459f-9817-8d6fb0dda89a___RS_Early.B%206904.JPG",
+    "sha256": "a29eaf1fcb0e1c2baa8f9ce49aa692c9d7db0b100f39629bd876f17f99a2d974",
+    "bytes": 20962,
+    "label": "early_blight"
+  },
+  "early_blight-051.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/c9296b35-7b8b-4ac2-99db-07c426ec774b___RS_Early.B%206832.JPG",
+    "sha256": "0d23beb96fd3cb091880dcd0be2a9494a132488358a06d5de68a3b079516f975",
+    "bytes": 20409,
+    "label": "early_blight"
+  },
+  "early_blight-052.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/72f7fa2c-974f-42af-99c3-fd4739d64050___RS_Early.B%208772.JPG",
+    "sha256": "8906c836efd514c4ed3cbf425b725a8f13d692f97ff03372c3c11ef127b457d0",
+    "bytes": 19118,
+    "label": "early_blight"
+  },
+  "early_blight-053.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/bea108c2-bdf1-484d-807c-fa9431f4dc95___RS_Early.B%207265.JPG",
+    "sha256": "5d4f18e564db97d9672b9b4d384cb729d6fae96e21a0193d1a9fa1afac3f349f",
+    "bytes": 18193,
+    "label": "early_blight"
+  },
+  "early_blight-054.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/9cb0c796-fde2-406b-87fe-3926b722f8f7___RS_Early.B%208300.JPG",
+    "sha256": "c05383b11559e8abe9bfc3799849a074c7c1b73cd4bb4cfcdacb431629bfb13c",
+    "bytes": 19098,
+    "label": "early_blight"
+  },
+  "early_blight-055.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/ede5199d-4bf1-4bd0-a460-2168350ed05a___RS_Early.B%208773.JPG",
+    "sha256": "b9b0d74df0c3da2061dea2ea802ec9c72d30293280d9eb1cbafb5e50a82eeb90",
+    "bytes": 18718,
+    "label": "early_blight"
+  },
+  "early_blight-056.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/8be5bc25-febc-4bde-bd2b-01a54d3c6e3c___RS_Early.B%208760.JPG",
+    "sha256": "6d62bfc944856c7a1f7a12c483c227987c26fcd97a429f1b6d50466b15bbcc74",
+    "bytes": 17428,
+    "label": "early_blight"
+  },
+  "early_blight-057.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/ec6b34ed-69c6-466a-81a9-4ca18eb25275___RS_Early.B%207038.JPG",
+    "sha256": "867d5d4e8c431dae7b39eb30bf869c3d12d66d65bda0a3c0fa51a25e5eaebb8e",
+    "bytes": 18866,
+    "label": "early_blight"
+  },
+  "early_blight-058.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/15ab8118-01fb-4e9c-83a9-94ab224d6854___RS_Early.B%207962.JPG",
+    "sha256": "daa7e99eee31072c7f2203be8c432f856352110a940355b9b12697a1c857b354",
+    "bytes": 19620,
+    "label": "early_blight"
+  },
+  "early_blight-059.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/f164ce92-d109-47ca-9f75-380a7f16155a___RS_Early.B%207104.JPG",
+    "sha256": "5b677b921f28967f9d61f847d11021ecb36d48aa425ea3df8a0366d9a7e00254",
+    "bytes": 18909,
+    "label": "early_blight"
+  },
+  "early_blight-060.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/fc1ab935-21b3-42e7-a870-02fd71c5d845___RS_Early.B%206894.JPG",
+    "sha256": "ce3686edbcc9ed01e7168706e76bef0e4d31ee611ad1b08bf05be1cfcd1ccc29",
+    "bytes": 21674,
+    "label": "early_blight"
+  },
+  "early_blight-061.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/583fa343-d5be-414b-bd95-f674313bd882___RS_Early.B%207681.JPG",
+    "sha256": "cae750dcb679e49b2246f7f9a400b70340c475affc547dca0a8cf9f3004218dc",
+    "bytes": 17497,
+    "label": "early_blight"
+  },
+  "early_blight-062.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/af79e762-c2f7-4e37-926b-ce27dbc52fc4___RS_Early.B%206858.JPG",
+    "sha256": "74b138bfdfd2ceb912580c5e6d8b7cebd9c44a534213076175d359740e3692be",
+    "bytes": 22809,
+    "label": "early_blight"
+  },
+  "early_blight-063.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/08029ccc-387e-4be6-9389-04f7b82fdb2a___RS_Early.B%209130.JPG",
+    "sha256": "de318aa411a0eda395435e8ee4ee43a58618b6cb9af66fe639e1e032241afb24",
+    "bytes": 20456,
+    "label": "early_blight"
+  },
+  "early_blight-064.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/904770c5-2c05-43a1-a4d7-bccb5eafe1b7___RS_Early.B%207129.JPG",
+    "sha256": "0d9010a0df3217b27ff74aaa0def8f2245aa0fd7348c756b509714eb3c65c0cf",
+    "bytes": 20068,
+    "label": "early_blight"
+  },
+  "early_blight-065.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/67f2bf79-1d71-4748-bcd6-a65006f12981___RS_Early.B%207289.JPG",
+    "sha256": "59f3a61b0bc51d1b8bb55c2c6289d7e6ea7ac5fc7b7aaa2a66a42d683dca6e43",
+    "bytes": 21505,
+    "label": "early_blight"
+  },
+  "early_blight-066.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/4b925312-1973-41cf-afdf-9090d02dd539___RS_Early.B%207913.JPG",
+    "sha256": "b3dd001b2e010e4deac6e95fb326531ddd918a6dcbb0ddf1b2dfa958c38c29c2",
+    "bytes": 22260,
+    "label": "early_blight"
+  },
+  "early_blight-067.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/993bc916-4517-45cf-a5bd-90ee95dd35fd___RS_Early.B%208452.JPG",
+    "sha256": "b5fafec4a577e466d6d4a4c5e7e53ddab5f1a29722d5e569111a6857fa4637b4",
+    "bytes": 18970,
+    "label": "early_blight"
+  },
+  "early_blight-068.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/a4cc86e3-ac4d-4b72-89a2-6cf106831908___RS_Early.B%207346.JPG",
+    "sha256": "11bcf640bf3ed2f5d0a67019de450c919720cb0993b1e08b31b66e21d78b1629",
+    "bytes": 17253,
+    "label": "early_blight"
+  },
+  "early_blight-069.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/0c5b14d9-8b1c-4c39-bb23-1835b5760caa___RS_Early.B%207937.JPG",
+    "sha256": "d8abc2c3ff6e17e84cef2b941791ed5e3c57cf8adfdf07c0f078365011ca543e",
+    "bytes": 20306,
+    "label": "early_blight"
+  },
+  "early_blight-070.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/216a1a08-c4be-4fa9-b880-c260909e1dbc___RS_Early.B%206881.JPG",
+    "sha256": "7eea1420427d51699f45778d08664119536255da0361a503f539010126bba3e2",
+    "bytes": 20829,
+    "label": "early_blight"
+  },
+  "early_blight-071.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/54260e42-8e3f-44c2-b252-c784391ce639___RS_Early.B%207508.JPG",
+    "sha256": "87db6f047f54e4b7b74235525be13a3ccc38d8072293f4dcb5c297f56926f59a",
+    "bytes": 14836,
+    "label": "early_blight"
+  },
+  "early_blight-072.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/73273541-2855-4516-92c3-658703bd2d18___RS_Early.B%206814.JPG",
+    "sha256": "8678a35729cda92d4b98645ec41b77c6347b89c2b7d4217dff25006b4cdd9404",
+    "bytes": 19236,
+    "label": "early_blight"
+  },
+  "early_blight-073.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/6ad3d424-3e81-4b18-a029-4a20884c4ada___RS_Early.B%208380.JPG",
+    "sha256": "3e05c6a372047f159e8e585e2791e82b23306bd71eadee1dab2e6fbab49c14eb",
+    "bytes": 20530,
+    "label": "early_blight"
+  },
+  "early_blight-074.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/c3d68a2f-0c7a-4060-bfc4-8baf01d3f2fe___RS_Early.B%208010.JPG",
+    "sha256": "f4e54af1da1474ac2d3c8718921ab9f1f3c49a3a08302eef83ccb587410afbfa",
+    "bytes": 23382,
+    "label": "early_blight"
+  },
+  "early_blight-075.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/b29e0fdf-c39f-4b3a-b12f-c693374f15cf___RS_Early.B%208820.JPG",
+    "sha256": "6cc889a4e56012e22af4e8262b61afc85b41728671d85482f54943374425e05c",
+    "bytes": 19759,
+    "label": "early_blight"
+  },
+  "early_blight-076.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/0267d4ca-522e-4ca0-b1a2-ce925e5b54a2___RS_Early.B%207020.JPG",
+    "sha256": "3fdce534a556378a718e002d842f785012d86b86bbd36a16fb1813cd1350b92c",
+    "bytes": 19289,
+    "label": "early_blight"
+  },
+  "early_blight-077.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/45ecd7ac-7db9-49bf-b34d-ccd2e83123b0___RS_Early.B%206883.JPG",
+    "sha256": "1e145f31ccbee954c30db1609f4e6f85a0aff357fa5ae89db82698e7354dd8a2",
+    "bytes": 19989,
+    "label": "early_blight"
+  },
+  "early_blight-078.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/82927769-4d4a-4f19-a806-a02f435ad17d___RS_Early.B%207886.JPG",
+    "sha256": "948dcf1a73edd5f32439a8aa2793578356df672a20014aa0c8703e00305d362f",
+    "bytes": 22502,
+    "label": "early_blight"
+  },
+  "early_blight-079.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/349730da-a627-4da6-90d5-707c4a3dba88___RS_Early.B%207553.JPG",
+    "sha256": "ff8624ff8c8a58f38986c54c597288df810b514df08f449ddbf58282e6c11542",
+    "bytes": 18199,
+    "label": "early_blight"
+  },
+  "early_blight-080.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/524142aa-78fb-4fab-895c-ddb993d07479___RS_Early.B%207435.JPG",
+    "sha256": "c587b35a2fdafcfe1ac089f2deb6d23ee202502b7366f4abcdca36eff5da8cf2",
+    "bytes": 19237,
+    "label": "early_blight"
+  },
+  "early_blight-081.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/1f830d02-1fc6-41d6-99c6-851e0d2af4ad___RS_Early.B%209182.JPG",
+    "sha256": "203088c300a74012621d9e08b90b6757169add6b508309a83123f9c933f17f0c",
+    "bytes": 23124,
+    "label": "early_blight"
+  },
+  "early_blight-082.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/8ff3274d-02b2-4859-9415-982aa4ec7d8c___RS_Early.B%207465.JPG",
+    "sha256": "38fb10d0c6a3c26fb5a00de4e960c4d91f2dd8d1e753698630220704e807f0c1",
+    "bytes": 22898,
+    "label": "early_blight"
+  },
+  "early_blight-083.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/bd4c7de8-0616-45d4-a060-54b8329a9462___RS_Early.B%206902.JPG",
+    "sha256": "a512e81e8dcaf7c56ffc6b02f9c81b8546d19369c388a776414e337290788c13",
+    "bytes": 21084,
+    "label": "early_blight"
+  },
+  "early_blight-084.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/dcdcc724-b029-4987-9d12-ccc8893ac6b4___RS_Early.B%208387.JPG",
+    "sha256": "4eacc5160887e9092a4f484d2e670a4a35858bf6ecff2a48801a6370019889a4",
+    "bytes": 18853,
+    "label": "early_blight"
+  },
+  "early_blight-085.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/6cd05602-f131-47a3-a7ef-f328a13e4f1e___RS_Early.B%207079.JPG",
+    "sha256": "34e66f692191a6253a7b4661cd1bc94452403ccad04d174651c1b625777360d4",
+    "bytes": 18596,
+    "label": "early_blight"
+  },
+  "early_blight-086.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/b3d44557-f696-4fc9-b144-dec4f4ba9452___RS_Early.B%209110.JPG",
+    "sha256": "bc7548aee2d5eb0a6d6297593ac6eb6da65726649614dd821b9bf26ac628f78a",
+    "bytes": 20744,
+    "label": "early_blight"
+  },
+  "early_blight-087.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/f0a1af30-47b5-430b-b563-ef9a32a55dc7___RS_Early.B%206781.JPG",
+    "sha256": "98be79696bb33e246e92dad10236fc36995605f85a1e69e790658b8f233075b9",
+    "bytes": 17773,
+    "label": "early_blight"
+  },
+  "early_blight-088.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/8a9f0340-d5d1-479b-9dc5-d8df11685951___RS_Early.B%207024.JPG",
+    "sha256": "4830b78e56daa2e07387f91bbaefe95c2361ed81e32ca5e532f0f7a7307d29ea",
+    "bytes": 20417,
+    "label": "early_blight"
+  },
+  "early_blight-089.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/38a72c90-ed53-4432-b625-01c1f962f791___RS_Early.B%207302.JPG",
+    "sha256": "d074c4d5805e0488c663cbf1d0ca342aa3ddf1b3f10c38ecff93d857d0ef65ff",
+    "bytes": 18372,
+    "label": "early_blight"
+  },
+  "early_blight-090.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/1d4fc5d0-fee6-40bf-8e7b-e1598ea64161___RS_Early.B%208912.JPG",
+    "sha256": "75bab3381ab73401cb63a35a1a08afbf396586777b4d923d9b5073a23e697215",
+    "bytes": 22672,
+    "label": "early_blight"
+  },
+  "early_blight-091.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/1d2ec63e-acfb-4a80-ba21-853a724fff4a___RS_Early.B%208083.JPG",
+    "sha256": "b49d1dcf55618cc786f3b9b8e87031e9e41b017e552a5b35a24c18c66f87c848",
+    "bytes": 22737,
+    "label": "early_blight"
+  },
+  "early_blight-092.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/d9a1cd5f-e2f2-49f7-b5f1-22cf02eb5ba4___RS_Early.B%208891.JPG",
+    "sha256": "c94949ebd3a25459149240448ab9f29c61b208e5fbcc8fa0297b51ac0ec6c5cc",
+    "bytes": 18520,
+    "label": "early_blight"
+  },
+  "early_blight-093.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/53e30623-2023-4bbf-b904-ba39426f8628___RS_Early.B%207613.JPG",
+    "sha256": "662e2032af17411d5ae0f77dafd56dd335bb5d69b112844735aa979e43359f9a",
+    "bytes": 16541,
+    "label": "early_blight"
+  },
+  "early_blight-094.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/dd9c3ad3-aa94-4d00-88c8-8e4618e8832e___RS_Early.B%207633.JPG",
+    "sha256": "1811d4b707207ff25adbdee5fd07ae4625b47b7e9250351c7bbe81d0c2f76365",
+    "bytes": 19253,
+    "label": "early_blight"
+  },
+  "early_blight-095.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/4c7622da-663c-48df-8005-355fff221fe1___RS_Early.B%208432.JPG",
+    "sha256": "f235f3e9b49ab25fd2bb8a41e0d90abf64a4fb5b5fe8deb51d772a0a2c2e48d1",
+    "bytes": 20547,
+    "label": "early_blight"
+  },
+  "early_blight-096.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/d036af36-99a4-4b25-aa40-2477883e73cf___RS_Early.B%208269.JPG",
+    "sha256": "9d106e9889327af259279043a1996a80709f28cacc6157c7d9c75534bc1b9eb4",
+    "bytes": 20452,
+    "label": "early_blight"
+  },
+  "early_blight-097.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/c3ce9bae-e62a-4dd9-afa0-f020c48b87cc___RS_Early.B%206704.JPG",
+    "sha256": "36f06f5f67d23593c51ff8b6daec39f924487498ae1d02673c0b93baddd67177",
+    "bytes": 22697,
+    "label": "early_blight"
+  },
+  "early_blight-098.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/deb1d849-ecf2-4451-8ff7-ca6b0bbbf434___RS_Early.B%207677.JPG",
+    "sha256": "16096343ce5a4b7ad773d108dfb1f68a72bc821cca9ea248e09db061560e0215",
+    "bytes": 17563,
+    "label": "early_blight"
+  },
+  "early_blight-099.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/cb5241ed-1a40-488a-9236-64ed07e6ebbf___RS_Early.B%206712.JPG",
+    "sha256": "2288c34eee2276d46ca07af10547fe58091309962959140d086c556bc4ca7a47",
+    "bytes": 19927,
+    "label": "early_blight"
+  },
+  "early_blight-100.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/109730cd-03f3-4139-a464-5f9151483e8c___RS_Early.B%206738.JPG",
+    "sha256": "b400e5c28a538440a851f3d4e2058d4215079b10b7a44c4687df713480938987",
+    "bytes": 22064,
+    "label": "early_blight"
+  },
+  "early_blight-101.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/0a8a68ee-f587-4dea-beec-79d02e7d3fa4___RS_Early.B%208461.JPG",
+    "sha256": "9a7d79185c2b399771cf3e24d00749c6b1ea0ddfcce5f794884d47114a568a42",
+    "bytes": 19344,
+    "label": "early_blight"
+  },
+  "early_blight-102.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/51ab2ec9-d90b-47f3-8e4a-fdceeceb033b___RS_Early.B%207859.JPG",
+    "sha256": "95c1f2da78bf223aa20bd9ad970f579371ebb70a1b200096907709d59e72b5eb",
+    "bytes": 21404,
+    "label": "early_blight"
+  },
+  "early_blight-103.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/37da60b5-9c33-4fe7-95d4-3a2db2a7702b___RS_Early.B%208359.JPG",
+    "sha256": "80bda4f4462ae3c23f41b0942051e81ebbfe58ab620e2c14650e77173d8c8301",
+    "bytes": 19474,
+    "label": "early_blight"
+  },
+  "early_blight-104.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Early_blight/63f9b76b-c491-4ed3-923b-087967ea9268___RS_Early.B%207161.JPG",
+    "sha256": "bcb0da78129338e4b33495409032f401a34dbc22f5ed25975ff87d456649d421",
+    "bytes": 21148,
+    "label": "early_blight"
+  },
+  "late_blight-000.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/ee1e965f-2bee-4a7a-8356-1118c9e41cd3___RS_LB%204120.JPG",
+    "sha256": "823a50b57345f1edcaa36d390b8e311e0d021a3d6632217f5f1eb4fb15a47384",
+    "bytes": 11862,
+    "label": "late_blight"
+  },
+  "late_blight-001.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/de63bbba-d8d0-4e74-95d7-6d5adfcd0955___RS_LB%203222.JPG",
+    "sha256": "6638c1cbe00fd81a60073eec070889b8dc22c116c44895e8179841c024815577",
+    "bytes": 19898,
+    "label": "late_blight"
+  },
+  "late_blight-002.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/b294595b-8950-4e5b-8dfc-2ad9ca2c5e0a___RS_LB%204475.JPG",
+    "sha256": "a5367cf34fdc726b3b67c128820118244189dfc1ae693b19499f296abc6abd41",
+    "bytes": 14277,
+    "label": "late_blight"
+  },
+  "late_blight-003.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/cd413b65-05b0-4bbd-9896-4951d11e920d___RS_LB%204575.JPG",
+    "sha256": "01dd20dcb5cad712b50235237997c6d10f23fe0c7225e5ea7dcd510efae7982c",
+    "bytes": 17433,
+    "label": "late_blight"
+  },
+  "late_blight-004.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/04bbcc55-93d3-4a19-9137-8de036a8a4db___RS_LB%202647.JPG",
+    "sha256": "2cab43eb27b73bfa9999ec57b481c1bea5de59715634b22ac04c2fde55f84c30",
+    "bytes": 15334,
+    "label": "late_blight"
+  },
+  "late_blight-005.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/d879aaf6-d557-4607-b7a0-ecbb3761f152___RS_LB%204723.JPG",
+    "sha256": "fb95f4ee0181faabf7834424f03e3965d4e401a6da748a76ec09fcf455b88b1e",
+    "bytes": 14459,
+    "label": "late_blight"
+  },
+  "late_blight-006.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/c4263e49-60ed-4f6b-aa78-cc9f3117ce73___RS_LB%204100.JPG",
+    "sha256": "d4136a190dd466f8eb5ee96a70d46787dc81ea8c091ace301cc65bd5026cf730",
+    "bytes": 15967,
+    "label": "late_blight"
+  },
+  "late_blight-007.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/f3ee2886-4ada-4287-94b6-c4c93005b887___RS_LB%204352.JPG",
+    "sha256": "5c97ddd5545fe54d017b8557320becf1c7ed120f50d8adb10a204e0882abcf98",
+    "bytes": 17341,
+    "label": "late_blight"
+  },
+  "late_blight-008.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/d4d37fcb-95c0-4e20-809c-6b92e6a565f3___RS_LB%205110.JPG",
+    "sha256": "d32e17b0d757e2df462960e0f33d661a212f6800c705184f0424de0893c23785",
+    "bytes": 15562,
+    "label": "late_blight"
+  },
+  "late_blight-009.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/f7438ce7-c12a-40df-83a1-1ab0cde13bb0___RS_LB%203847.JPG",
+    "sha256": "f147b3c8cc093fc8bfe1cb5284d810319b92092cbf1d6292d97798c087041090",
+    "bytes": 12839,
+    "label": "late_blight"
+  },
+  "late_blight-010.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/889d5479-9d54-49b1-9aba-3af34e377592___RS_LB%202635.JPG",
+    "sha256": "81716201ce60f9ebcb32c29901dbfa4121838dcfa96dc795eb6852778331d5e0",
+    "bytes": 14396,
+    "label": "late_blight"
+  },
+  "late_blight-011.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/af17b876-b0e7-43ce-95e8-8591066dfdc9___RS_LB%203976.JPG",
+    "sha256": "f5ac28a93108b429b001f936201f4431717f55be00377795c2fb0eb0a8a5ec93",
+    "bytes": 15791,
+    "label": "late_blight"
+  },
+  "late_blight-012.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/29ad1bd3-9eca-4975-97b9-80d497a62811___RS_LB%202847.JPG",
+    "sha256": "132a84ea9247433370476539f7658ba421dc3dadf8ccb63d95c449a8da753d21",
+    "bytes": 16291,
+    "label": "late_blight"
+  },
+  "late_blight-013.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/aec94baf-a0e8-43af-80af-4bab46d84ad8___RS_LB%205100.JPG",
+    "sha256": "7318266dd91e9b367d58c233589de4074230b185aed417463bdc2297b64e8fad",
+    "bytes": 18893,
+    "label": "late_blight"
+  },
+  "late_blight-014.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/bd586e94-fa36-4aed-be05-7a0028d40118___RS_LB%202650.JPG",
+    "sha256": "666b10dcfb29f2e401b1c59d3cfb3aa67375650c9d656af008f1bd36b3bdd93c",
+    "bytes": 14849,
+    "label": "late_blight"
+  },
+  "late_blight-015.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/bc5b403e-ecc2-4fde-bafa-9b8698e4545c___RS_LB%204448.JPG",
+    "sha256": "d48502e1cef16e9d19df6f7cc91c87ffb6d633e93bab23e4710eb5aa797053ed",
+    "bytes": 18760,
+    "label": "late_blight"
+  },
+  "late_blight-016.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/ecfc161f-11f6-449f-80c1-1b0254f5179a___RS_LB%204279.JPG",
+    "sha256": "2fc69d532fb5cab20e50ef38388743d174b5e3e208548695fa54b53179ec598a",
+    "bytes": 15853,
+    "label": "late_blight"
+  },
+  "late_blight-017.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/fb9dc049-ec76-4502-9a11-13fb62a26ed4___RS_LB%203916.JPG",
+    "sha256": "1f6ff796a15d91f10a91b72c66c679b20c01bebb96a0d310e906982482cd5f8d",
+    "bytes": 14772,
+    "label": "late_blight"
+  },
+  "late_blight-018.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/33938ff2-ee2c-4571-96dd-6229a0cb4e0c___RS_LB%205184.JPG",
+    "sha256": "139b3984f333082ed52bcb198ae4e7b1ca5e32193d31e0526c7234f1661c05a7",
+    "bytes": 18023,
+    "label": "late_blight"
+  },
+  "late_blight-019.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/55ed5831-c628-4352-87a8-13077705fb9a___RS_LB%202872.JPG",
+    "sha256": "2b1ecb68130638d4ece2d930b6453f682d27d94c103f17d41bc2c833559e6dd7",
+    "bytes": 12243,
+    "label": "late_blight"
+  },
+  "late_blight-020.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/cd04dd6c-fe7b-4587-ae2e-69228969d9d6___RS_LB%204824.JPG",
+    "sha256": "fdb0926b7cc02370e1355d0f6f6332e007f745bc7d589e6d75b8bb359eeac607",
+    "bytes": 21384,
+    "label": "late_blight"
+  },
+  "late_blight-021.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/d3e6cc68-6d84-406f-9e02-b81f8051ecb3___RS_LB%203992.JPG",
+    "sha256": "ed9f109e88df5558d4bdf200549bbc9d0cb8aca1bfc19ec87ec21cc93f11bb30",
+    "bytes": 17184,
+    "label": "late_blight"
+  },
+  "late_blight-022.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/bf07f2b7-6ab3-4192-a418-ecabc32a11fe___RS_LB%202576.JPG",
+    "sha256": "f7e898a7920586b7b10ae8c27122651b822e4e2b84fbf94f0ec5abbe2983f886",
+    "bytes": 15474,
+    "label": "late_blight"
+  },
+  "late_blight-023.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/c84a1cfc-5e19-46df-a315-c7fb6a61e60f___RS_LB%204103.JPG",
+    "sha256": "3947822695d4d84bca726e5a875f7b5ea4da93e6a3bd67263311ccdfdfc8be39",
+    "bytes": 17219,
+    "label": "late_blight"
+  },
+  "late_blight-024.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/4cd2f7ef-e3aa-4b2a-b382-6fea00bfd070___RS_LB%205006.JPG",
+    "sha256": "12f55a8f3f109526b6d730825a06c275a7d3b43ccc294d0763205cb82c27277a",
+    "bytes": 18537,
+    "label": "late_blight"
+  },
+  "late_blight-025.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/74ee080b-cad8-4090-9f2a-07411eb8481a___RS_LB%204956.JPG",
+    "sha256": "95f304604146bcc9f66146a1e002e6841309d39d4e371cc6bfd10cb2f7bbe746",
+    "bytes": 18644,
+    "label": "late_blight"
+  },
+  "late_blight-026.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/d01b2206-84b5-41f6-9a40-b238282940bd___RS_LB%202631.JPG",
+    "sha256": "14fe966001758cd1e21c73851f7d5ca000eecebb28cef5129db513f57cafc154",
+    "bytes": 15397,
+    "label": "late_blight"
+  },
+  "late_blight-027.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/6637f5da-44b1-43bc-9678-1f1188f1ed7c___RS_LB%204796.JPG",
+    "sha256": "f1fcb81ac4e48f1fbbf45de6e388c04e57fcc33eea7798f2e1fdc2a2e7a8984b",
+    "bytes": 20865,
+    "label": "late_blight"
+  },
+  "late_blight-028.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/b64e4518-147a-4a75-9f9b-33db8902aa12___RS_LB%203202.JPG",
+    "sha256": "e6918265a79546d4f1610ba31b7879b62e5319cecc8c1b99bede6d1d72d605bf",
+    "bytes": 17967,
+    "label": "late_blight"
+  },
+  "late_blight-029.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/d5bf2575-1e57-4792-81a1-5770e701be1b___RS_LB%203209.JPG",
+    "sha256": "75d7b33662252bc19b2864d1d7b33f4ed01543475315faf17667c28bd659140b",
+    "bytes": 17163,
+    "label": "late_blight"
+  },
+  "late_blight-030.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/ae20cc4e-fe37-48f0-9566-2d2efc5afd38___RS_LB%204290.JPG",
+    "sha256": "81ec0c0c09877846e4f6e328badbcfaf140b792e60f23c0ff2955ee5dd1caa2c",
+    "bytes": 13141,
+    "label": "late_blight"
+  },
+  "late_blight-031.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/f4e6847d-d381-4849-9ff1-930cfb597d08___RS_LB%205097.JPG",
+    "sha256": "e5298d865f68e44eeef95727c3507b8e532ffbdf81ff1edbed4480324ad3e3e4",
+    "bytes": 19501,
+    "label": "late_blight"
+  },
+  "late_blight-032.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/07ff77ae-07b4-4a2d-9c4a-bb89bb4fb1ef___RS_LB%202985.JPG",
+    "sha256": "6931c33d3b0900652d7f4ea577cbd1a99c7bd5aac34be5c7bacbbc842bd05903",
+    "bytes": 20704,
+    "label": "late_blight"
+  },
+  "late_blight-033.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/96a70433-9204-4a41-acad-d39932559068___RS_LB%203200.JPG",
+    "sha256": "027fe4f975a52ef32533b1b594e2d97d8e594f0186b1b9ebdba56dfb705dc912",
+    "bytes": 20002,
+    "label": "late_blight"
+  },
+  "late_blight-034.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/259a9b63-d100-43bd-b611-1c707b9e8842___RS_LB%204562.JPG",
+    "sha256": "5c7a2687c94193b3eac27dc8063aaf996cdd33ba174298599ab5a9e5b47ac9ea",
+    "bytes": 16781,
+    "label": "late_blight"
+  },
+  "late_blight-035.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/e0c879c8-ebf3-43d0-9693-7a747fb5ba75___RS_LB%203956.JPG",
+    "sha256": "f604612890ac9d904f9aaa022cefdc74350d5b6de286d5cfc660749363ae7711",
+    "bytes": 17500,
+    "label": "late_blight"
+  },
+  "late_blight-036.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/a30baff1-96fb-4df5-9511-e131359b5fd8___RS_LB%204464.JPG",
+    "sha256": "60ce6b1274394828404956a98e45b021863a7acac73396eee5bd57649f6bd937",
+    "bytes": 21160,
+    "label": "late_blight"
+  },
+  "late_blight-037.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/a904edc1-4c4d-4171-a46e-ae914010884b___RS_LB%204373.JPG",
+    "sha256": "0cd3f2585e100f6e9c173fb0517326d922435b100749b1f5252b26882eff78f4",
+    "bytes": 15120,
+    "label": "late_blight"
+  },
+  "late_blight-038.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/7ec28081-7b26-4519-a406-48ff4edb69ea___RS_LB%202622.JPG",
+    "sha256": "e078c65dd781aea9ba0672ae84f3226e6c8dfaadb4f5951f74320c343af60a78",
+    "bytes": 14054,
+    "label": "late_blight"
+  },
+  "late_blight-039.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/7efcdebc-93be-4168-9965-2b2be46823d8___RS_LB%203249.JPG",
+    "sha256": "3d450b7191142365c3f8bed69dc6c111741e1bb70114e9996d5b3a61ea51b7d2",
+    "bytes": 18713,
+    "label": "late_blight"
+  },
+  "late_blight-040.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/1c207156-339d-4ec9-9153-9edb3bc95b5f___RS_LB%204833.JPG",
+    "sha256": "135f903a36fb0cd3b016f46f6e994a76a2d4aa00735086dd0a33bed06c9673ab",
+    "bytes": 19346,
+    "label": "late_blight"
+  },
+  "late_blight-041.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/fe72d959-6788-4b19-9285-e0b2919dc718___RS_LB%202516.JPG",
+    "sha256": "a9c1c705e350835ad86b8b198602cbeb39aa3f6612b2f8268859538f1be60e94",
+    "bytes": 16069,
+    "label": "late_blight"
+  },
+  "late_blight-042.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/4c846678-1c22-4734-b2bf-fb774bf3bb13___RS_LB%204090.JPG",
+    "sha256": "976165796a4393b75d6cd0a41a7672d935ec787cba0695078b70a31a3ce580dd",
+    "bytes": 12589,
+    "label": "late_blight"
+  },
+  "late_blight-043.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/bb81b8a0-3d1e-4cef-aeb5-31ac32f1761a___RS_LB%205268.JPG",
+    "sha256": "808b806fd2a263d28a2ac4585bc90c82e6b99d54a96c96d4be075494fcc1e0ee",
+    "bytes": 18890,
+    "label": "late_blight"
+  },
+  "late_blight-044.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/4ca06863-f89b-497c-bd3a-9bca78f02942___RS_LB%203088.JPG",
+    "sha256": "344fe9e2568303c79dbd17bd61e7b54858e532c86107bc071b117fdd1b9718b6",
+    "bytes": 19566,
+    "label": "late_blight"
+  },
+  "late_blight-045.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/37075adc-dd51-4a5b-8a6c-0649cb98516b___RS_LB%202678.JPG",
+    "sha256": "3f3f9bb9da85e83ef091f1758c945b8399ec2fbeb6fc06e3e2667437caf7ba99",
+    "bytes": 19166,
+    "label": "late_blight"
+  },
+  "late_blight-046.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/87c99be5-a930-410f-8529-e79e030cba0c___RS_LB%205294.JPG",
+    "sha256": "ba574148a5e3867533fa4a997dc81a162f529906eaf00cc35e0eff3403fcc866",
+    "bytes": 16530,
+    "label": "late_blight"
+  },
+  "late_blight-047.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/63490f84-88b0-4105-bb76-23990e98c692___RS_LB%203041.JPG",
+    "sha256": "9297bc65efd08faeb7dd4115fa347e54ef7a29b95607e41f142414d120e4c5c3",
+    "bytes": 15430,
+    "label": "late_blight"
+  },
+  "late_blight-048.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/b6b937ed-f629-4136-8d5a-38b734f7f662___RS_LB%204595.JPG",
+    "sha256": "42a115f2ed81ac97ea84454a95f3f1bd69157e5ba252c28bfdb203a19bd89bad",
+    "bytes": 14624,
+    "label": "late_blight"
+  },
+  "late_blight-049.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/531a9b98-e034-4a76-81f0-55f597552f6a___RS_LB%205021.JPG",
+    "sha256": "8afaf3921cd87de86d2b61aa98c282708f8f86768d5252b6e073613bd48f85c9",
+    "bytes": 14506,
+    "label": "late_blight"
+  },
+  "late_blight-050.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/9a179173-fbfb-4e92-9959-58b826625c9b___RS_LB%204761.JPG",
+    "sha256": "90f6c361d6e01b31f7ae749fbe09b2c39c61e3f9324333a9ab82a70efefe9cca",
+    "bytes": 13509,
+    "label": "late_blight"
+  },
+  "late_blight-051.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/ea620852-7590-4d82-8349-1470cb1fe3a8___RS_LB%202719.JPG",
+    "sha256": "81450331605c75c250e95cbd4d41283a1b6e2399070ef91b6b71c4ef33c02031",
+    "bytes": 17783,
+    "label": "late_blight"
+  },
+  "late_blight-052.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/94c50d24-cfd7-486c-a4ac-a10f552d0f8b___RS_LB%204329.JPG",
+    "sha256": "692ee443f49743607dd43ee9ce41d87e908d10e1ba16704f36a7125249ea0c24",
+    "bytes": 16391,
+    "label": "late_blight"
+  },
+  "late_blight-053.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/81e4675f-5f16-4c8a-be12-acb79f46575e___RS_LB%203111.JPG",
+    "sha256": "94f22b612e9fe4de5dc34cef57c0b9181753dc302bd6e2412304efc83c4a4d36",
+    "bytes": 16729,
+    "label": "late_blight"
+  },
+  "late_blight-054.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/a5a6ebeb-2535-441d-acf5-33bce305fa14___RS_LB%203304.JPG",
+    "sha256": "09e42ee521df4729c258d0414237c122403d77a2c4b5e43082994815c86b1521",
+    "bytes": 20658,
+    "label": "late_blight"
+  },
+  "late_blight-055.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/1c6ec55e-182e-4b7c-b416-07029edfc970___RS_LB%203950.JPG",
+    "sha256": "27d162582f338930c93eddb01abb0d04c18c4b2d78b61c15a8d06948ddc83e18",
+    "bytes": 16347,
+    "label": "late_blight"
+  },
+  "late_blight-056.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/87681326-2843-4e63-9042-602b08a98a66___RS_LB%204145.JPG",
+    "sha256": "9354c57ffaf4461cb332ec2af148643f0ef2774cfa795e04856ef722fda0f682",
+    "bytes": 12659,
+    "label": "late_blight"
+  },
+  "late_blight-057.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/0f1fb568-1b12-45ef-ad99-c59fa9075693___RS_LB%203242.JPG",
+    "sha256": "fd3305849e9adb6a235202dcfc1c7b5dc39306c9089e3c7cc26acac3dc39150a",
+    "bytes": 18646,
+    "label": "late_blight"
+  },
+  "late_blight-058.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/77e2a857-e169-42f4-9886-708024781837___RS_LB%204705.JPG",
+    "sha256": "ea5698369a876e2a79b76a3053ce9e3dafdcf5411678705ed644ad5d11525ca5",
+    "bytes": 11675,
+    "label": "late_blight"
+  },
+  "late_blight-059.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/29bfc55a-8cb2-4938-b0b5-5e2748fd1a22___RS_LB%205070.JPG",
+    "sha256": "45c04e0fe8d077839b4a7eb56de700c91f8dead4eadf98e09e40b4b3a3e06eca",
+    "bytes": 16819,
+    "label": "late_blight"
+  },
+  "late_blight-060.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/d385010f-53c1-4e7d-9fd3-50f0c98dc245___RS_LB%203865.JPG",
+    "sha256": "fce34fbe7639f1f957fb5af214b7b99e6f126d95a006285ed29ecbed036f4a17",
+    "bytes": 15848,
+    "label": "late_blight"
+  },
+  "late_blight-061.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/14691d2b-446b-4f0e-921b-60d3b76cbf03___RS_LB%202518.JPG",
+    "sha256": "1f711d8826b72f2a02300c706d357fa3ae36fbdec22a36bf6909b4116527b27d",
+    "bytes": 18494,
+    "label": "late_blight"
+  },
+  "late_blight-062.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/ebd47dca-590b-43c4-812d-32f95b776690___RS_LB%203834.JPG",
+    "sha256": "56b2abbcaa57b3b03a423436d9d3f09c9f85a6334aad11029b9d9a0b1ceb4f65",
+    "bytes": 9451,
+    "label": "late_blight"
+  },
+  "late_blight-063.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/9c230647-02da-4948-9c52-dfc87bb1d34a___RS_LB%204593.JPG",
+    "sha256": "01ec00ac005ebc4965d063a18c72602186d9d781be1344db1774da61f732dbf7",
+    "bytes": 13540,
+    "label": "late_blight"
+  },
+  "late_blight-064.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/8692ff0d-260b-4fb9-9598-efa91456c2bd___RS_LB%205438.JPG",
+    "sha256": "18fe63d680fa4e08a535730068b32b22ef653137ec1efecfe8211b5530c83667",
+    "bytes": 14959,
+    "label": "late_blight"
+  },
+  "late_blight-065.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/56aa566a-41be-4109-91bc-0cc99c385b7f___RS_LB%203843.JPG",
+    "sha256": "01049a48c8f28b02b3fa9003949779c6877f3e499cb82e0d295ee0c88fae32b1",
+    "bytes": 11773,
+    "label": "late_blight"
+  },
+  "late_blight-066.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/1338edcb-9e0e-458c-845e-206b869f9199___RS_LB%203205.JPG",
+    "sha256": "6842006a1370623275fc4f004c0d303966aec0c866fed9916ff27dbbb3cf6cb9",
+    "bytes": 18816,
+    "label": "late_blight"
+  },
+  "late_blight-067.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/b74d0fd1-9af7-4053-8538-ee937236a64d___RS_LB%204918.JPG",
+    "sha256": "297ad7c91ea4fc69f9be948537d4950eaf98e05675917524e9f871328ad520d0",
+    "bytes": 20737,
+    "label": "late_blight"
+  },
+  "late_blight-068.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/ae5b08fa-25b7-4006-8b1b-2415356b3847___RS_LB%205453.JPG",
+    "sha256": "ecb04ef6a3e79b278b33168a3952af5b0ea8dd0766b7fb859e4aefba54a7ff02",
+    "bytes": 14545,
+    "label": "late_blight"
+  },
+  "late_blight-069.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/f9bd5093-1f62-4d00-bb66-7f65ce5c412b___RS_LB%202854.JPG",
+    "sha256": "2a8a94c3fb7a5db56c720a98ef305de4798869c3781c2ee83d9ffb2d378ec243",
+    "bytes": 14732,
+    "label": "late_blight"
+  },
+  "late_blight-070.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/98a806fd-2839-4069-b40b-08522c34ccdc___RS_LB%203032.JPG",
+    "sha256": "9db460e269bd0b16cdba6ff7e51c47979569ab58d5029ff00c6ace841ba2b4a8",
+    "bytes": 14888,
+    "label": "late_blight"
+  },
+  "late_blight-071.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/3f0fd699-1ce7-437e-a899-662a51d59974___RS_LB%202904.JPG",
+    "sha256": "26f376324c9d9ac7edd0afc5ac18ef2bc9e5bb1c5d08687697a83d90de984b30",
+    "bytes": 17588,
+    "label": "late_blight"
+  },
+  "late_blight-072.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/2d8cbe58-280e-4c93-9b06-26f4279eb4d8___RS_LB%202855.JPG",
+    "sha256": "6474db3e4c54b8a2d592d79f50ecdfea9ffdef78262006929702a86c4819384a",
+    "bytes": 14993,
+    "label": "late_blight"
+  },
+  "late_blight-073.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/ea356b9c-9090-4f0d-9083-d1f63c77372d___RS_LB%202800.JPG",
+    "sha256": "b773620651f6d0ae4763f59a34be15b4b5086855cb122d6c2103d60dd6e44e99",
+    "bytes": 19798,
+    "label": "late_blight"
+  },
+  "late_blight-074.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/430b0d0d-c0aa-4e5b-9826-34251466f735___RS_LB%204718.JPG",
+    "sha256": "092620d1839236b05d7aa2cd8e41d4ff53dedb8c337b40c00355efdeaa1fa7f8",
+    "bytes": 13481,
+    "label": "late_blight"
+  },
+  "late_blight-075.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/d1a28228-aae8-4348-b7a1-545dcf72d842___RS_LB%203875.JPG",
+    "sha256": "ebae091487ea3d673c26fdee6633cc18ef5e4694bbc8c954f8862a8e4a0ef5a5",
+    "bytes": 15060,
+    "label": "late_blight"
+  },
+  "late_blight-076.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/c206ebe3-c06e-4eb9-a537-a719cfa1e3c0___RS_LB%205140.JPG",
+    "sha256": "4e60b06cd52b66c37c29a4f4e879b69d67320c7c579c1c542b5c3768ea753251",
+    "bytes": 16183,
+    "label": "late_blight"
+  },
+  "late_blight-077.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/f5ad9b49-ea3a-46c0-8a54-d4e0aa76eda4___RS_LB%204379.JPG",
+    "sha256": "5d592cc7fe84f0529a39a4318a9d8595a4418b2927be6b8e97c1cbe611c3eca9",
+    "bytes": 13679,
+    "label": "late_blight"
+  },
+  "late_blight-078.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/a838f0ba-745a-4c0b-9895-f3349a6cee4a___RS_LB%204959.JPG",
+    "sha256": "47e3d30b3f14585dbe8c273334852ec203a0ea316689010b2ee70b7c6d5444f8",
+    "bytes": 16428,
+    "label": "late_blight"
+  },
+  "late_blight-079.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/36d2885d-0bc7-4346-8a13-383e1533a68c___RS_LB%205098.JPG",
+    "sha256": "392685bd329111384baba6288ef74bf7e03ec7e2735824b687ca66ed08cfffa5",
+    "bytes": 18489,
+    "label": "late_blight"
+  },
+  "late_blight-080.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/c01daf14-9595-4b10-974d-3452fe133060___RS_LB%204463.JPG",
+    "sha256": "5258573c3b349f4577e85e5d5c384e63b6f6297eae93c9a8c06ee5401039ed57",
+    "bytes": 20571,
+    "label": "late_blight"
+  },
+  "late_blight-081.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/d99f0d05-6ee3-440c-9dc6-48f7ba2bfc24___RS_LB%202654.JPG",
+    "sha256": "6e173fd8b0725414e4fb52e89954b92b9deb1ab2f08d103ca97bd1a999029808",
+    "bytes": 20182,
+    "label": "late_blight"
+  },
+  "late_blight-082.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/4885a2b1-fc77-4b1a-ad55-3fa4b3fe4e1e___RS_LB%204425.JPG",
+    "sha256": "844e89d3cb7169ef47445be42455524147b65d208c06014a450432efb1956bcd",
+    "bytes": 16644,
+    "label": "late_blight"
+  },
+  "late_blight-083.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/939a9a98-cbc9-4b83-bb47-395f26d7fddd___RS_LB%204293.JPG",
+    "sha256": "209d06390af1c3fdd81609b22b2b78ed354e9b5f3524a4ee8a42518474c383af",
+    "bytes": 21997,
+    "label": "late_blight"
+  },
+  "late_blight-084.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/84559c6d-0589-4d8d-8fc3-a818b067f85c___RS_LB%204608.JPG",
+    "sha256": "c6b1860170c3865cf59715abb10c672d771973afbac6a3ecced0ed7eb310a29d",
+    "bytes": 13691,
+    "label": "late_blight"
+  },
+  "late_blight-085.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/76be1a95-8bf1-468e-bc6c-f7d8fa5b7e5b___RS_LB%204758.JPG",
+    "sha256": "306b7733a2f6a983eb1e2346144e85a8dddd997458442e05e1332cadac2a8140",
+    "bytes": 11320,
+    "label": "late_blight"
+  },
+  "late_blight-086.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/d1ae329b-19bc-40c3-afb1-404ecf3c98ee___RS_LB%202613.JPG",
+    "sha256": "abe58d21a1db974b3a5af088cf63b971570e5ff035184230b56c2970b5153331",
+    "bytes": 14411,
+    "label": "late_blight"
+  },
+  "late_blight-087.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/d98195f0-bdf8-4e0d-9fd5-af86cfed2a6c___RS_LB%204790.JPG",
+    "sha256": "0d2b4883d315b1ffaaa62df93bb46e756ff946b6d089f687c17c99b6804e8617",
+    "bytes": 19124,
+    "label": "late_blight"
+  },
+  "late_blight-088.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/dd08ad51-110b-4de0-bfbb-862e53a6165c___RS_LB%204542.JPG",
+    "sha256": "af0202ba667b5145e5f3768cf3af1c6cb060547eab32bcc2068a0e36062f8fff",
+    "bytes": 19289,
+    "label": "late_blight"
+  },
+  "late_blight-089.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/b65fddcf-cc40-4632-a0c4-70fff2f68009___RS_LB%204481.JPG",
+    "sha256": "f8bcf73f920d8b0dea01b721d421fbc0956e0a93a36cf6dd47fe46a344eb3b95",
+    "bytes": 21840,
+    "label": "late_blight"
+  },
+  "late_blight-090.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/224d9d63-c097-4142-b1a6-56f88a7bae2e___RS_LB%202630.JPG",
+    "sha256": "1a30789605ed796a090cd4fe755102677dc3d0c1aa6160c0d1467ae6006d3dcb",
+    "bytes": 15061,
+    "label": "late_blight"
+  },
+  "late_blight-091.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/127521ec-3cc5-4f98-ac73-ad561ec29e73___RS_LB%203219.JPG",
+    "sha256": "436fea444684daf9946ee12d70cb08ad6a9d909b6e3499666a07336e2f29688a",
+    "bytes": 21506,
+    "label": "late_blight"
+  },
+  "late_blight-092.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/72e10017-f8a6-4813-8036-0cde4dad6057___RS_LB%204666.JPG",
+    "sha256": "13af68e83040f7bce65173ccb413b8807dae76c7842f213745b2226745d1b5f0",
+    "bytes": 16212,
+    "label": "late_blight"
+  },
+  "late_blight-093.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/541591d3-3560-4540-ac2c-9749936e80ae___RS_LB%202553.JPG",
+    "sha256": "c1003262c17ae6528fcc6cbcde2dee1a4a5d5b73a246a9a9ff476ac58f996cd7",
+    "bytes": 18401,
+    "label": "late_blight"
+  },
+  "late_blight-094.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/c008d8a7-aa55-400b-ad6c-f4fd7654c516___RS_LB%205242.JPG",
+    "sha256": "5173c52c778b4a8086d5ba886f07df5dfd22e62c2b25c3a965665fae67d37113",
+    "bytes": 15174,
+    "label": "late_blight"
+  },
+  "late_blight-095.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/8542cb42-d817-4850-b42f-1fa7083e37d9___RS_LB%204780.JPG",
+    "sha256": "add8a18acde1c396d3aeaed8adb89b732d0e50e99ae84d1c8893466fa6e4302d",
+    "bytes": 16623,
+    "label": "late_blight"
+  },
+  "late_blight-096.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/563f8e2a-0a5f-4920-aee5-ad98269c8144___RS_LB%204798.JPG",
+    "sha256": "dbf9ebc570c0e79c0d1514c9337e5199302f93f410bc935cab94147485290d4d",
+    "bytes": 18515,
+    "label": "late_blight"
+  },
+  "late_blight-097.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/a7dad20a-b0c0-408b-a961-17928319e17f___RS_LB%204645.JPG",
+    "sha256": "e6d91245fc7eb82ffc9599f56c7562e04f56189f9b1f7a98aa306b653c2b0653",
+    "bytes": 16367,
+    "label": "late_blight"
+  },
+  "late_blight-098.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/4afd8bf6-0e1e-4a85-a576-1e8995c88d5c___RS_LB%202505.JPG",
+    "sha256": "1129ff41f348600b5f6285598d47b418f2553e1f17d959f43d148dfdb6fdf1f5",
+    "bytes": 14963,
+    "label": "late_blight"
+  },
+  "late_blight-099.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/2438dfce-68a1-4026-a006-4c99a0f6259b___RS_LB%205116.JPG",
+    "sha256": "13698183cffe4aeb4499acc26b5e58633b1c2dfc6a5b9567fb2741e79c97a695",
+    "bytes": 15307,
+    "label": "late_blight"
+  },
+  "late_blight-100.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/37c1e3d4-e54b-431a-b370-2a506b6026a2___RS_LB%204461.JPG",
+    "sha256": "fb37747e4078dcbbfe1e6f430f326f4060876e3a45d30d18e7eb9f35a6a88458",
+    "bytes": 18360,
+    "label": "late_blight"
+  },
+  "late_blight-101.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/5b12fde1-fe3a-49fe-8430-479775018322___RS_LB%203071.JPG",
+    "sha256": "501690ef125921a54135a15ab361095184230c4709940ebc489a801a71b54190",
+    "bytes": 18049,
+    "label": "late_blight"
+  },
+  "late_blight-102.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/93905331-a3b3-43dd-8596-d8f7e6b3e88f___RS_LB%203306.JPG",
+    "sha256": "c7b0eaeaf60e3afbfc46382f661628c2071ad3a698037316219017e3d62076a1",
+    "bytes": 18565,
+    "label": "late_blight"
+  },
+  "late_blight-103.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/9996efa6-219d-4f07-aa12-dc8ca40609b9___RS_LB%202840.JPG",
+    "sha256": "0e9889184d44166e0470b01a0fd0f844b2e2c9349a636de10d1cbfdecfe5aa77",
+    "bytes": 14996,
+    "label": "late_blight"
+  },
+  "late_blight-104.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___Late_blight/304b3fa0-f0cb-41b5-b835-9bd13773150a___RS_LB%204696.JPG",
+    "sha256": "eb4a76ed286f2180ced590e75d8ab1be8f0a13ec9b194c7b301d4abdd1f33a1c",
+    "bytes": 14913,
+    "label": "late_blight"
+  },
+  "healthy-000.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/907f26b7-a14f-463f-a41e-f35d6e0f1417___RS_HL%201757.JPG",
+    "sha256": "432ca2641094c76ce275eed4e3f0f3058802474f09e260215df6018f6bdb7c21",
+    "bytes": 15215,
+    "label": "healthy"
+  },
+  "healthy-001.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/c9ad5c9a-c9b0-4e07-9e03-9e9edfd58a19___RS_HL%201755.JPG",
+    "sha256": "535d4ece0e4ce1617993cf9aa7e1b1376be03ed102abef0f720da357d1ed9a54",
+    "bytes": 20810,
+    "label": "healthy"
+  },
+  "healthy-002.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/c6abf1da-b06f-4cd2-8af6-d68be5eff6f9___RS_HL%201766.JPG",
+    "sha256": "b1cf7edaa38f7200d1d400345514077318b0502c688df8d9845c11f194462c71",
+    "bytes": 21636,
+    "label": "healthy"
+  },
+  "healthy-003.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/60e9a878-13e0-4345-964c-fd807cd20bbb___RS_HL%201876.JPG",
+    "sha256": "3ae60f7d82062b35c8fe50d3dae1096cb8d78d6b6b61a4a05d5e79d11b5f3cb1",
+    "bytes": 24532,
+    "label": "healthy"
+  },
+  "healthy-004.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/1f9870b3-899e-46fb-98c9-cfc2ce92895b___RS_HL%201816.JPG",
+    "sha256": "702444f64237854ed02c1399cbb584608b3d453ca33f409f588fc17703ae2d6a",
+    "bytes": 19589,
+    "label": "healthy"
+  },
+  "healthy-005.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/3c0d6888-c7e1-4cf8-9c25-9a0b8c62ba72___RS_HL%201780.JPG",
+    "sha256": "4e763dbfa5c183fa2aae930ddbcedb86273238ed806d141b5b8ee13a189ee907",
+    "bytes": 18055,
+    "label": "healthy"
+  },
+  "healthy-006.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/111cd9d8-4d27-4225-be9e-d29b21cf56b9___RS_HL%205419.JPG",
+    "sha256": "97ffd530447b2042eb52a12f59e7ddb77a39f672c92d0a15e12ef03dd0cad9b4",
+    "bytes": 19226,
+    "label": "healthy"
+  },
+  "healthy-007.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/8665efd2-fa3d-45f8-b1c0-746c99fb7d1e___RS_HL%201924.JPG",
+    "sha256": "2afe098c3ee7f6b6c4712ad7f2a60ee67023b682f691ee0d873dd79403a5ce6a",
+    "bytes": 23883,
+    "label": "healthy"
+  },
+  "healthy-008.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/c07db642-c675-4066-99b6-56bc8207fb37___RS_HL%204164.JPG",
+    "sha256": "349455886da8b4d94cc998aafdb77e09e6096fa20a5c60c9193d309b2b74f500",
+    "bytes": 14436,
+    "label": "healthy"
+  },
+  "healthy-009.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/2e0b8b4b-e900-408b-b760-730690bbd382___RS_HL%201901.JPG",
+    "sha256": "57a2252913eb374e4a49b8e5e14f6de7f9f71f8839cbf1ce2062f4f4387b39ef",
+    "bytes": 24468,
+    "label": "healthy"
+  },
+  "healthy-010.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/03da9931-e514-4cc7-b04a-8f474a133ce5___RS_HL%201830.JPG",
+    "sha256": "ca02edeb23fcea64bae292a7b20f9a4b26484df6a287b3fb5d6b4fe53b131f33",
+    "bytes": 20229,
+    "label": "healthy"
+  },
+  "healthy-011.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/8c1e1281-5937-4559-a02f-02817de6e122___RS_HL%204173.JPG",
+    "sha256": "8d4b8a14e52926fcd9b3220266790fbc25b57eeb309eff7c9697a3d6ce863f90",
+    "bytes": 17831,
+    "label": "healthy"
+  },
+  "healthy-012.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/ee052892-e935-4fbb-9344-4d23c57c6890___RS_HL%205400.JPG",
+    "sha256": "b582baab8f7d8252d0e2d36f1b8d7d2b8416f171e453fac4033f976608e944c4",
+    "bytes": 20519,
+    "label": "healthy"
+  },
+  "healthy-013.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/170f1f57-0fd4-421f-9c82-3b1804be63ad___RS_HL%201771.JPG",
+    "sha256": "43c2666ad8304046ab8f03ae0e49637502ab3864030c215f4ece4816e088f988",
+    "bytes": 18647,
+    "label": "healthy"
+  },
+  "healthy-014.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/d50a580b-46bd-47f5-a0bf-8535da774104___RS_HL%205408.JPG",
+    "sha256": "f501aecdd826a741369814a6ca636e309d9c746897a2c669f62250e4bf9298d1",
+    "bytes": 20604,
+    "label": "healthy"
+  },
+  "healthy-015.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/3edf7c3f-73e0-439c-870d-76cfd7c3bc45___RS_HL%201859.JPG",
+    "sha256": "0443835f56c9ac4a7b7b1bfa732d100dde58e6ccade0d5fc271772d1248d1314",
+    "bytes": 23878,
+    "label": "healthy"
+  },
+  "healthy-016.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/dbe4f332-9189-4b76-b30c-f0c9a55e48d3___RS_HL%201841.JPG",
+    "sha256": "22f6e18dc4c232118b8db62ebd5068d3abd82c9fc842f3c1b23cf24a1811ea4c",
+    "bytes": 21261,
+    "label": "healthy"
+  },
+  "healthy-017.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/046641c1-f837-49eb-b5f2-4109910a027c___RS_HL%201878.JPG",
+    "sha256": "19e47ed531b27e96708e33447d17075a20c7a28c5e4fea4212ecac0a65c0abcd",
+    "bytes": 24030,
+    "label": "healthy"
+  },
+  "healthy-018.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/5a3fc4bb-a78c-4276-8934-f0b037ffb860___RS_HL%205412.JPG",
+    "sha256": "d5770a0871aa0eece913ebdaaa7e85cf614ae07798d858ea8eebb42b54a04cee",
+    "bytes": 18317,
+    "label": "healthy"
+  },
+  "healthy-019.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/144d2475-21ab-4bdc-a67c-9672a9b711e6___RS_HL%205376.JPG",
+    "sha256": "07bb6d02abf2c95c8f49dd07f1b2607bfc4a5f6aa8231a507595cf68c0741e2c",
+    "bytes": 18385,
+    "label": "healthy"
+  },
+  "healthy-020.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/9c620128-2872-4bbb-bc14-d5b785242cf6___RS_HL%201751.JPG",
+    "sha256": "91a7a31d0f6657e5e14d5529eb2eb0646f4219ebd0acd331be2f93c7a995029b",
+    "bytes": 19324,
+    "label": "healthy"
+  },
+  "healthy-021.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/5d505af8-3f73-4781-980c-a4a696a04550___RS_HL%201934.JPG",
+    "sha256": "3ccd13d16aafa862722696f05ff26306118fe77d3f4c9665e11b85432809f0ff",
+    "bytes": 22619,
+    "label": "healthy"
+  },
+  "healthy-022.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/762672f4-17e6-4fd6-84f1-3bcb091b3ca5___RS_HL%205417.JPG",
+    "sha256": "fe8132d101da8c1164b4a916655e0738d39567ffd6c3e6e9f8ac0fd730773af0",
+    "bytes": 15491,
+    "label": "healthy"
+  },
+  "healthy-023.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/71c06efe-089f-49b3-beed-095bd7640e32___RS_HL%201947.JPG",
+    "sha256": "c3a7f4edfc03af8fb2cbe5d88971408b2d93a24ae3d78732b41280bbd00d17f3",
+    "bytes": 20394,
+    "label": "healthy"
+  },
+  "healthy-024.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/774875d3-438a-4305-afe2-7d59e2925dc4___RS_HL%201759.JPG",
+    "sha256": "c5e1145f7f44b48d3ec80bde9636a79b65032200affc637a67bd118f92d4bad2",
+    "bytes": 19602,
+    "label": "healthy"
+  },
+  "healthy-025.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/b9ea902d-e557-4fa5-893b-39a7a57c0121___RS_HL%201893.JPG",
+    "sha256": "e8690115a69af1ef1635381e70f125bd71ff1d12d67bd57c30e059944e06aab7",
+    "bytes": 16933,
+    "label": "healthy"
+  },
+  "healthy-026.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/3f369e63-81eb-4194-a145-df9ed91abc5d___RS_HL%201745.JPG",
+    "sha256": "4b8e298a9bcd1d003dbe620de1ae526effc12a0a19726237869fe2743a0c8624",
+    "bytes": 17711,
+    "label": "healthy"
+  },
+  "healthy-027.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/57e262fc-e0ba-44db-a967-5ba6f1826e49___RS_HL%201897.JPG",
+    "sha256": "8ab0d27f2336f9a91da5fdc351dbc390d9bdef840293ad91985b5ad10a2d08b4",
+    "bytes": 19678,
+    "label": "healthy"
+  },
+  "healthy-028.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/0f4ebc5a-d646-436a-919d-961342997cde___RS_HL%204183.JPG",
+    "sha256": "0f9b82836c810e4c782b44be63c8f89926b38e26d2d8e7f9069c43305fce458b",
+    "bytes": 18420,
+    "label": "healthy"
+  },
+  "healthy-029.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/d287be3d-cac6-4485-8c31-674fb8b459be___RS_HL%201973.JPG",
+    "sha256": "e64267e6ca7bbb8b367a9462dffd15cdcdafb9b7dc0005e01dedbb2ff72433ec",
+    "bytes": 17530,
+    "label": "healthy"
+  },
+  "healthy-030.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/b8b7b98a-eb1a-4213-9b0b-aeef4df427e8___RS_HL%201858.JPG",
+    "sha256": "e90fa394857caaa3f4853bae3b3a57a1b424e12b1163ced5911e15e0be37fcfe",
+    "bytes": 20180,
+    "label": "healthy"
+  },
+  "healthy-031.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/414f6249-9f78-4af5-9593-9d5a7e7d979f___RS_HL%201918.JPG",
+    "sha256": "a3237de22973fd78539a1a8b6a776218d8cdc4dd54e8497d588468d9d878a152",
+    "bytes": 24388,
+    "label": "healthy"
+  },
+  "healthy-032.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/04481ca2-f94c-457e-b785-1ac05800b7ec___RS_HL%201930.JPG",
+    "sha256": "aed52452d81d81597b1bac54981bcae6952906110f7aa47be945a6a28f4a7e60",
+    "bytes": 21257,
+    "label": "healthy"
+  },
+  "healthy-033.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/f4be3632-42a1-415a-9f7e-1d5ecb9f49d7___RS_HL%201783.JPG",
+    "sha256": "4d34ce5b8506af0777ddba2bfc189ba0c18e28d26f1b5140ceec72538f991b61",
+    "bytes": 17245,
+    "label": "healthy"
+  },
+  "healthy-034.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/bb04f738-1848-4dda-8834-384a48b335cd___RS_HL%201765.JPG",
+    "sha256": "4d6a805f5a9e94cea724da07f927b74425e9a7b71a16b1f72e1dd3dda17df129",
+    "bytes": 21584,
+    "label": "healthy"
+  },
+  "healthy-035.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/b28c43f9-5844-4e9b-86bf-36bc114cae07___RS_HL%201736.JPG",
+    "sha256": "1dee85d2f00cdaf270fdf1ec9d5607f0fcada51ede9fdd110dc19044235e360a",
+    "bytes": 18018,
+    "label": "healthy"
+  },
+  "healthy-036.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/b4031970-60ea-4739-9fed-6c81be1bad1c___RS_HL%201752.JPG",
+    "sha256": "372d1eec9cab0bef9f548c69ed4dfc9c95f07f6122441bc98223720c2a2e4c34",
+    "bytes": 20331,
+    "label": "healthy"
+  },
+  "healthy-037.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/d1752ed4-a0a7-4075-917d-205c0e785dcf___RS_HL%201911.JPG",
+    "sha256": "3a3849d90065b18371843ce005086215ca2dcc82187fd5356881c946a44af7f8",
+    "bytes": 23529,
+    "label": "healthy"
+  },
+  "healthy-038.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/31a09d39-6791-4ecb-8f44-af2ed85dbd33___RS_HL%201970.JPG",
+    "sha256": "54aad0a15c17ee2fa54775aac16f85aad8644d36897c40693bf6cf1f9fc56098",
+    "bytes": 22962,
+    "label": "healthy"
+  },
+  "healthy-039.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/2ccb9ee9-faac-4d32-9af5-29497fa2e028___RS_HL%201837.JPG",
+    "sha256": "3da0a0e5f5aee349171c71b479de233c0b1175f0ebb291e95d07f8faf3e438cf",
+    "bytes": 20700,
+    "label": "healthy"
+  },
+  "healthy-040.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/9d7d1bb9-1b10-4a8f-a961-e404b9d5acf8___RS_HL%201960.JPG",
+    "sha256": "86bcfff62a4b5caefe1f675eb4529379e7103fdb18a84480c1eea02d83e81dfe",
+    "bytes": 22126,
+    "label": "healthy"
+  },
+  "healthy-041.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/e693354a-053c-4093-8642-cc8f5f9eb2cc___RS_HL%201746.JPG",
+    "sha256": "ad963a48a9d29c03a9543cf272be3b3b9066842e73039bfc8aebbad81d01c5e8",
+    "bytes": 12097,
+    "label": "healthy"
+  },
+  "healthy-042.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/46b2555a-c0a6-48c2-af13-0816e147e4de___RS_HL%201943.JPG",
+    "sha256": "249bc8066b6ce1610a4f1558c30c9963a70d49fd68288d73872bedf1a820eafe",
+    "bytes": 21326,
+    "label": "healthy"
+  },
+  "healthy-043.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/413bc2e9-eb2a-48fd-ba65-48b5121fd85c___RS_HL%204200.JPG",
+    "sha256": "a5eb55aca6e99b10719aac043f7fffbc87fea4156a4044f9e98b7af1f0a81f70",
+    "bytes": 17131,
+    "label": "healthy"
+  },
+  "healthy-044.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/1b434c52-7be4-40c4-90d5-13220f1a3eba___RS_HL%205418.JPG",
+    "sha256": "6ff1db5b951cbb193c43dda3a7e273d10bb9d7086695a020d056b6bdbdba6a87",
+    "bytes": 16644,
+    "label": "healthy"
+  },
+  "healthy-045.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/d325e580-5faa-4aea-927d-2700f52cc343___RS_HL%201872.JPG",
+    "sha256": "002ef3d8b0b98eb2ce88b38b7e152979cd9adaefa273fd0778d768ef23d76db0",
+    "bytes": 21975,
+    "label": "healthy"
+  },
+  "healthy-046.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/43fd6ace-3712-494a-9aba-de5482d22561___RS_HL%201968.JPG",
+    "sha256": "b3aca833eac476f36803eabfcc87214cdb8cfe83e1da5add9a15ddb9699ffcb2",
+    "bytes": 20722,
+    "label": "healthy"
+  },
+  "healthy-047.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/882798ca-67c3-45a3-86cf-4aed69388145___RS_HL%201750.JPG",
+    "sha256": "0d5fb5753d68b92e65b75413f072d8ea0c05a4f771ecb21ffaaa51bdf17b76af",
+    "bytes": 21080,
+    "label": "healthy"
+  },
+  "healthy-048.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/1a1184f8-c414-4ead-a4c4-41ae78e29a82___RS_HL%201971.JPG",
+    "sha256": "22a4b976ad6f7fc439abdbfa6ec4e0e4e5a713ddd1adb14dead55b2e4c0ae5fe",
+    "bytes": 19143,
+    "label": "healthy"
+  },
+  "healthy-049.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/51a03694-82cd-43a5-9877-ddce42c1a5ad___RS_HL%201779.JPG",
+    "sha256": "17a954f569f33792edc1ed260d1f85f8c03e3e9b1148931608a35f5c3cd3f0e9",
+    "bytes": 19021,
+    "label": "healthy"
+  },
+  "healthy-050.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/e51367c1-d582-45e3-acf6-b0e652b43d3a___RS_HL%201873.JPG",
+    "sha256": "e5095e99b3e9d603e939cb03d91f2f290f9cd2a3ab54f8971ffa4fd106e0937f",
+    "bytes": 23202,
+    "label": "healthy"
+  },
+  "healthy-051.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/8583c4ff-2d8b-4b6f-89a8-fcc98917ce9b___RS_HL%201961.JPG",
+    "sha256": "f438cdc131616a54a406508bee7b6f68862838292e89562614eddb6a5e54919a",
+    "bytes": 21243,
+    "label": "healthy"
+  },
+  "healthy-052.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/f0fdde26-78b4-46f0-9eb8-7c2a743d34aa___RS_HL%204165.JPG",
+    "sha256": "f81181852d0025ad7bcaec69a8bc22439852fe6a0b342a2186be7d2d9f53b8e3",
+    "bytes": 16616,
+    "label": "healthy"
+  },
+  "healthy-053.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/de9a8669-d437-40f0-aa56-fe2d8276a1e0___RS_HL%201910.JPG",
+    "sha256": "19b06033c2e6ae81bc8012fae7541ae380f492d0758168992c15628540b15026",
+    "bytes": 21490,
+    "label": "healthy"
+  },
+  "healthy-054.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/c85bacb0-e5e8-4127-a0b0-a7342f2cab5f___RS_HL%205406.JPG",
+    "sha256": "c310d95d77f39b4f518ac7777b0944be95aad0ed5528f9545c8ddcf3d8ac8649",
+    "bytes": 19143,
+    "label": "healthy"
+  },
+  "healthy-055.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/683b04ad-7941-4819-9965-ba32c725eb22___RS_HL%201861.JPG",
+    "sha256": "ee09db8f85a6d9e2780c0eb422fdc2a08ad5ce6d208f907665696d10cdee8e4d",
+    "bytes": 20748,
+    "label": "healthy"
+  },
+  "healthy-056.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/3a00204c-5e53-4e5d-95a6-f8819031744e___RS_HL%205420.JPG",
+    "sha256": "958e02cf91adc25e357e1bd183a70b6858c99c9d5569afc8e809a25d65cce77c",
+    "bytes": 16976,
+    "label": "healthy"
+  },
+  "healthy-057.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/ec6e43d3-512d-4908-99f2-c9e2a0be54be___RS_HL%204202.JPG",
+    "sha256": "b6da280f8bf18d3861a25ec172bb48ec8eadf2c1b52e64a867af720a598ce858",
+    "bytes": 15666,
+    "label": "healthy"
+  },
+  "healthy-058.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/750584fd-72e0-45c8-b37c-97208bd559cc___RS_HL%201885.JPG",
+    "sha256": "dbcfd2fcd21e80a2a82cb6eaf65adf5d8ca877087596b7204f80d3596650f685",
+    "bytes": 19783,
+    "label": "healthy"
+  },
+  "healthy-059.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/d227e4c8-e203-4aa4-b813-25b96baa2869___RS_HL%201831.JPG",
+    "sha256": "f8a8a565b2d0b58a0a40c0c55dff08b66101a17178ce0824fd6dfdc488b2e689",
+    "bytes": 17622,
+    "label": "healthy"
+  },
+  "healthy-060.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/61b05f0a-14bc-4c8f-a256-57c8b8898d8c___RS_HL%201769.JPG",
+    "sha256": "c16255e657b91840ef5f082a3ea4471b92be7716aa6629615956706831ee189f",
+    "bytes": 23277,
+    "label": "healthy"
+  },
+  "healthy-061.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/2d98cbc8-cbe6-423c-b2ab-3f7f8bcea5d5___RS_HL%201945.JPG",
+    "sha256": "b390c4da5469f53ce9168d73e6becfe405b1677adb7324b39a35569b4913b879",
+    "bytes": 16212,
+    "label": "healthy"
+  },
+  "healthy-062.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/38faf81d-c83b-42ca-b4c3-e3bbfa070589___RS_HL%201805.JPG",
+    "sha256": "2407460081cec6761554d50b6b5020a61bb985590ae16c5b66f1e47f42f8296c",
+    "bytes": 19227,
+    "label": "healthy"
+  },
+  "healthy-063.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/9b5be0c5-7d7e-493d-88ba-c721c85f73ca___RS_HL%205405.JPG",
+    "sha256": "4d5781514ee6162896a2bffc2e00020ba7874fb7179a36056563ceaeefc41bb2",
+    "bytes": 19914,
+    "label": "healthy"
+  },
+  "healthy-064.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/f4b5ec24-d318-4309-8294-9126450d5d7f___RS_HL%201824.JPG",
+    "sha256": "2b79c69335da2e5b19b7497a4038ef7949700b14c59024f4a75db740f9de9ad6",
+    "bytes": 19422,
+    "label": "healthy"
+  },
+  "healthy-065.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/bf2bffbb-cd8f-4d36-bd58-847808397c75___RS_HL%201786.JPG",
+    "sha256": "5e34489b0ba7f13ab9166c717ef5c488f37cf354d37d4f03aa0a0725c9aa795a",
+    "bytes": 17983,
+    "label": "healthy"
+  },
+  "healthy-066.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/5fcbde8f-52af-4963-b324-ff7f4dd6bd4c___RS_HL%201762.JPG",
+    "sha256": "4c108060e2d5d992b4ffecaca4a90a90ef5321d3ecebf325d11424ea3a52799b",
+    "bytes": 23068,
+    "label": "healthy"
+  },
+  "healthy-067.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/4a08efaa-28cc-4356-8769-4002f4b299ef___RS_HL%201850.JPG",
+    "sha256": "3bd0dd84239a5bef137b2ed0eb793fd2c864cd99725d3818337d2a7a1cd1fab5",
+    "bytes": 20664,
+    "label": "healthy"
+  },
+  "healthy-068.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/57e24d88-fd01-4422-b8b5-d688d2296184___RS_HL%205401.JPG",
+    "sha256": "3e120ed724efb8dadd0f2198cf2aa11a4a5126346aacd998da346076a8cfb069",
+    "bytes": 21751,
+    "label": "healthy"
+  },
+  "healthy-069.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/163ada72-4288-4f85-a3c1-feed23c8d1de___RS_HL%201940.JPG",
+    "sha256": "ea670134ff78cf3effc45ad239c3a8c3ccb5afd45dcdf212eca65f2890113460",
+    "bytes": 20815,
+    "label": "healthy"
+  },
+  "healthy-070.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/949cafd0-098b-497f-9590-f0fb8ccafc94___RS_HL%204168.JPG",
+    "sha256": "54efe3a279ed7515bf4b505bc7372071f8865015b15693f39b19a6589758ea77",
+    "bytes": 17092,
+    "label": "healthy"
+  },
+  "healthy-071.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/54f86311-9d76-421b-b401-0b02f6e738a5___RS_HL%204172.JPG",
+    "sha256": "ae8756beae5d897f2f0e359642385f55c59f1724435745be2cb29548b3a820f7",
+    "bytes": 18425,
+    "label": "healthy"
+  },
+  "healthy-072.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/f66af6c0-6fc6-4020-b1de-a73685d497c2___RS_HL%204181.JPG",
+    "sha256": "c4219fd8c2b3d78742daa3c2c69b8f382a95716128d0000b6c52159e11da0557",
+    "bytes": 16422,
+    "label": "healthy"
+  },
+  "healthy-073.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/fd92bd9c-02cb-4599-8673-9316159504a1___RS_HL%201927.JPG",
+    "sha256": "f493f46d86663366b8e5c53176477ef177aa4604e6299577058c5125d4b86248",
+    "bytes": 21224,
+    "label": "healthy"
+  },
+  "healthy-074.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/929107f1-4ae9-4dae-8319-ae7cf4804236___RS_HL%201932.JPG",
+    "sha256": "dbc454d0272e14c3955bde82eeb84201dcf456c665eca4586cea0db4a95ba96e",
+    "bytes": 22739,
+    "label": "healthy"
+  },
+  "healthy-075.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/dca8ac5c-b925-435a-a5e9-da09fa8938a1___RS_HL%204182.JPG",
+    "sha256": "b5af83b3ed01b359ffeb202cfa2f95c68d9510c2cce641eaa7ebf7184df9350d",
+    "bytes": 18028,
+    "label": "healthy"
+  },
+  "healthy-076.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/1dcfeaa9-006d-470c-b3e5-d67609d07d4e___RS_HL%201808.JPG",
+    "sha256": "34e7acb77839f89c8c284e3299dd7de5a08b0bf959a3b80e780212ca0d33edc3",
+    "bytes": 18978,
+    "label": "healthy"
+  },
+  "healthy-077.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/a3ec91aa-8503-4711-a912-0d1427e25686___RS_HL%205409.JPG",
+    "sha256": "5c19cd25a9d2f028b63fc5853e9b3908064a6a77165772f4e134e522522e5a6b",
+    "bytes": 19306,
+    "label": "healthy"
+  },
+  "healthy-078.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/1ae826e2-5148-47bd-a44c-711ec9cc9c75___RS_HL%201954.JPG",
+    "sha256": "51e904d43d5a346fdfbf6a9b362942fd0cb069ef42fd400611d92e427cada84f",
+    "bytes": 22187,
+    "label": "healthy"
+  },
+  "healthy-079.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/77c75478-e1f0-4aaa-9cbc-af1fed928a74___RS_HL%201748.JPG",
+    "sha256": "0404e7f770290023ebe201ef2d48e7249ac03c39e45d2cfe7ceb1230da77fda3",
+    "bytes": 14695,
+    "label": "healthy"
+  },
+  "healthy-080.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/56ae1281-5ee5-4f2a-8678-c2e4491878c6___RS_HL%201869.JPG",
+    "sha256": "a3caa0f0d7f152e91674649bf84e906b43fd438ee9dc3e08732a98518f58f597",
+    "bytes": 20724,
+    "label": "healthy"
+  },
+  "healthy-081.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/5ea316eb-10a2-42c0-b781-40d90356ccaa___RS_HL%201935.JPG",
+    "sha256": "459c285e78f6f682807bd6608832f6eac763a10d7991213eae5b1748934127d9",
+    "bytes": 21163,
+    "label": "healthy"
+  },
+  "healthy-082.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/30126310-39de-4c02-b10a-23409417a4f6___RS_HL%201826.JPG",
+    "sha256": "93334e7ac982660f843c04e2fc13815837e860d422becd91532664ebaafe86d9",
+    "bytes": 19398,
+    "label": "healthy"
+  },
+  "healthy-083.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/c6204cb3-cd9f-4d7b-92a6-9773fe562cab___RS_HL%201939.JPG",
+    "sha256": "5368fa118326aaa886efc0ff065649a1f3fc89127ceeca38d3e604cd5f1a4cb6",
+    "bytes": 21661,
+    "label": "healthy"
+  },
+  "healthy-084.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/b536ea91-c5f8-413b-87f3-a22ac3d959d1___RS_HL%201825.JPG",
+    "sha256": "8d0cfffe8979e6f03252537b5dd3786774e0ef3386709c34681afd23dfee5d59",
+    "bytes": 21997,
+    "label": "healthy"
+  },
+  "healthy-085.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/52dd2fdd-6966-450c-a42b-ee14428d4271___RS_HL%201955.JPG",
+    "sha256": "a3f39599509c1996532de855f1ed4ce358176698756ba9c6a911a4604f64832a",
+    "bytes": 18983,
+    "label": "healthy"
+  },
+  "healthy-086.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/22322780-95b4-4b45-b626-26b22965d55e___RS_HL%201880.JPG",
+    "sha256": "4e7ad43ef5fc153ec8da25f31242fa9a9c84ad334206228aab4c4dcf4a328ad2",
+    "bytes": 20175,
+    "label": "healthy"
+  },
+  "healthy-087.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/57c2663b-5d1d-4476-b067-38b2149c3b2d___RS_HL%201796.JPG",
+    "sha256": "dd79c98ff690f03b4e1447726e9340e637afd77f72135f5f0dd2376d9c9e9cf0",
+    "bytes": 20968,
+    "label": "healthy"
+  },
+  "healthy-088.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/bb328d40-e4e6-4b84-a92a-e7cb3922c19d___RS_HL%201829.JPG",
+    "sha256": "0dc8fc470e342c10413faa7eaf671c189b4734123153d5c8bf658123810c5cc0",
+    "bytes": 17930,
+    "label": "healthy"
+  },
+  "healthy-089.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/b42621c3-f751-46e1-a8d2-83ed85b90554___RS_HL%201740.JPG",
+    "sha256": "880cc46d4574fab84d4d394eda6b09f00471f520b85a937c5870a28f41dd11c1",
+    "bytes": 18190,
+    "label": "healthy"
+  },
+  "healthy-090.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/8b2ce6b6-f00a-4f25-ac6d-4249dd7dc5f6___RS_HL%201890.JPG",
+    "sha256": "25e6b1adc6d1ec216dcd37097cc74fc2e2fc5845485e614254d83484b5d159b6",
+    "bytes": 19877,
+    "label": "healthy"
+  },
+  "healthy-091.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/c3caa84b-6078-4489-80ac-919d92d25ff7___RS_HL%201772.JPG",
+    "sha256": "c33f80896152f9df6946b4fa23de37cb5854b9bfc8de3ecc64e3e1a4feedadc6",
+    "bytes": 19650,
+    "label": "healthy"
+  },
+  "healthy-092.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/533abd3a-3e1d-42d0-ae9c-5189282b78af___RS_HL%205369.JPG",
+    "sha256": "57c0866e2e4ec714eed0dce07db3a53a0c876e8b0e0b6d9e655095ed16460ea2",
+    "bytes": 19375,
+    "label": "healthy"
+  },
+  "healthy-093.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/b35b9f8b-daca-4d12-a5be-defe68d0acc5___RS_HL%201903.JPG",
+    "sha256": "3d1290bb622b4001b250883b81d9cd46af54f9f94f39b29b47a131c1c8dfa992",
+    "bytes": 24047,
+    "label": "healthy"
+  },
+  "healthy-094.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/7e6c8297-dfe1-4826-826e-01d696cc263b___RS_HL%201863.JPG",
+    "sha256": "cb7f24b3d93c1c4e7759d812c1f07a1b31e2d695082c2747d37c57ae9831c1d7",
+    "bytes": 23534,
+    "label": "healthy"
+  },
+  "healthy-095.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/61b8a692-91d8-40f5-a4a4-4d910875a638___RS_HL%201966.JPG",
+    "sha256": "b20a2071b49c39c681f3fae700e8a9046eafe67f8b9389c43b3a61a640672498",
+    "bytes": 19424,
+    "label": "healthy"
+  },
+  "healthy-096.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL%201864.JPG",
+    "sha256": "1c057430715c288100b64ac6136b69f23f8708f92e7e4f0410ac16b110325946",
+    "bytes": 21345,
+    "label": "healthy"
+  },
+  "healthy-097.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/849aa978-c7b9-4344-9ca8-129219a65f8e___RS_HL%201874.JPG",
+    "sha256": "bc34f81f66245129f593349937dc305a2fd45456f84409e8c84cd273e463ceb1",
+    "bytes": 23743,
+    "label": "healthy"
+  },
+  "healthy-098.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/ad9b6cf4-e065-496d-91c7-5713ce14e19e___RS_HL%201926.JPG",
+    "sha256": "b94dc423169dd43c35ede2a68ae1a306889473868526cacd6f50099ba33ab083",
+    "bytes": 24084,
+    "label": "healthy"
+  },
+  "healthy-099.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/e34e563f-7a4a-4b44-bdf2-b6f96cbcd929___RS_HL%205370.JPG",
+    "sha256": "8e5741511380247e2fbfde9efa75b1536926f48df767433e00ac08a426c5b0d9",
+    "bytes": 19221,
+    "label": "healthy"
+  },
+  "healthy-100.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/23f1ab77-d664-49c4-92eb-41eb66c6d101___RS_HL%204169.JPG",
+    "sha256": "b4c50ce2b1848b619b249ff81ed7ab435808ba6134e936e8f64868c3b46f433f",
+    "bytes": 19387,
+    "label": "healthy"
+  },
+  "healthy-101.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/ff700844-68ad-4e99-8427-58a39c07f817___RS_HL%201860.JPG",
+    "sha256": "73c70944c9e3a096b2d59439327a98c692cff8c40254f7fc35c765de48cb7ec5",
+    "bytes": 22214,
+    "label": "healthy"
+  },
+  "healthy-102.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/45bc0b37-ca59-4a89-8531-705af42a6fd5___RS_HL%201946.JPG",
+    "sha256": "600ae07f3c7c7fc14bc898e64e3deda8d138ccf731cfd7880954b8f269f32f81",
+    "bytes": 23001,
+    "label": "healthy"
+  },
+  "healthy-103.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/e1b49d1b-165b-4f4e-8a30-735e62bc39c5___RS_HL%201839.JPG",
+    "sha256": "607ee58451167bfe2a4cfb96999d00781cfe88505ed1bf587c0dca4c78960197",
+    "bytes": 20458,
+    "label": "healthy"
+  },
+  "healthy-104.jpg": {
+    "url": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Potato___healthy/a8d687be-3777-403f-bae7-5c8c19340b3f___RS_HL%201738.JPG",
+    "sha256": "0dec65baa6ebb220fbe59dbaf891f094c799cacd676850edfeab3db02126b59c",
+    "bytes": 17942,
+    "label": "healthy"
+  }
+}

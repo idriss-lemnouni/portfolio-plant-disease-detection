@@ -1,0 +1,28 @@
+{
+  "verified_images": 315,
+  "partition_counts": [
+    213,
+    51,
+    51
+  ],
+  "test_classes": {
+    "early_blight": 17,
+    "healthy": 17,
+    "late_blight": 17
+  },
+  "evaluation": {
+    "Color histogram": {
+      "macro_f1": 0.9410714285714286,
+      "accuracy": 0.9411764705882353
+    },
+    "CPU CNN": {
+      "macro_f1": 0.9410774410774411,
+      "accuracy": 0.9411764705882353
+    },
+    "CPU CNN dimmed": {
+      "macro_f1": 0.16666666666666666,
+      "accuracy": 0.3333333333333333
+    }
+  },
+  "checkpoint": 10
+}

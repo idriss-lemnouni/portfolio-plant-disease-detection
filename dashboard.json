@@ -1,0 +1,11 @@
+{
+  "title": "Potato leaf classifier",
+  "subtitle": "Compare training loss and validation macro-F1 across the CPU training run.",
+  "input": "training.csv",
+  "x": "epoch",
+  "values": {
+    "training_loss": "Training cross-entropy",
+    "validation_f1": "Validation macro-F1"
+  },
+  "series": true
+}
